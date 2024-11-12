@@ -1,9 +1,9 @@
 ---
 layout: index
-title: piano010
+title: Piano Education Specialist
 menu_title: Home
 feature_text: |
-  <span id="highlight">piano010</span>
+  piano010</span>
   <span id="highlight">Piano Education Specialist</span>
 feature_image: /assets/img/piano010-pianoles-rotterdam.jpg
 excerpt: |

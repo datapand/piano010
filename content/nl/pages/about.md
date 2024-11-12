@@ -1,12 +1,14 @@
 ---
-title: Over mij
+title: Selen Apaydin - Piano Pedagogie en Kunst
+menu_title: Over mij
+feature_text: |
+  Piano Pedagogie en Kunst
 layout: page
-featured-img: shane-rounce-205187
 lang: nl
 permalink: /about/
 page_id: about
 description: |
-  Verken Selen Apaydin's uitgebreide loopbaan als pianodocent, zowel in diverse steden als online. Met een passie voor het delen en inspireren van maximale ontwikkeling, begeleidt ze trots zowel professionals als amateurs, van een strikte conservatoriumachtergrond tot tutoring tijdens haar bachelorfase. Ontdek getuigenissen, inzichten voor beginners en plan een persoonlijke pianoles met Selen Apaydin. 🎹🎓 #PianoOnderwijs #SelenApaydin
+  Ontdek Selen Apaydin's reis als pianodocent, van haar vroege ervaringen tot haar huidige focus op het helpen van amateurpianisten om hun potentieel te bereiken. Leer meer over haar unieke onderwijsmethoden en benadering van talentontwikkeling. #PianoOnderwijs #SelenApaydin
 ---
 
 ### Docentschap

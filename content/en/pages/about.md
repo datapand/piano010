@@ -1,11 +1,14 @@
 ---
-title: About
+title: Selen Apaydin - Piano Pedagogy and Art
+menu_title: About
+feature_text: |
+  <span id="highlight">Piano Pedagogy and Art</span>
 layout: page
 lang: en
 permalink: /about/
 page_id: about
 description: |
-  Embark on Selen Apaydin's rich career as a piano teacher, spanning cities and online platforms. With a passion for sharing and inspiring maximum development. From a strict conservatory background to tutoring during her bachelor stage, she proudly helps both professionals and amateurs reach their potential. Addressing teaching method deficiencies, discover testimonials, insights for beginners, and schedule a personalized piano lesson with Selen Apaydin. 🎹🎓 #PianoEducation #SelenApaydin
+  Explore Selen Apaydin's journey as a piano teacher, from her early experiences to her current focus on helping amateur pianists reach their potential. Learn about her unique teaching methods and approach to talent development. #PianoEducation #SelenApaydin
 ---
 
 ### Professorship

@@ -1,13 +1,18 @@
 ---
-title: Piano education and attributes
+title: "Professional Piano Skills for Hobbyists: From Beginner to Advanced"
 menu_title: Education
 layout: page
 lang: en
 permalink: /education/
 page_id: education
+feature_text: |
+  Master Professional Piano Skills</span>
+  <span id="highlight">For Every Player, From Beginner to Advanced
 description: |
-  Learn to play piano like a professional, even as a hobbyist! Receive guidance from a professionally trained concert pianist to build a solid musical foundation and master advanced piano pieces. Lessons include music theory, artistic development, and technical improvement for beginners to advanced levels. Special support for self-taught learners to address gaps and refine technique. Discover effective practice methods and create a personalized learning plan with an experienced pianist to elevate your piano skills.
+  Discover how you can acquire professional piano skills, even as a hobbyist. Learn from an experienced concert pianist and improve your technique, from beginner level to advanced. Overcome technical challenges and fill knowledge gaps. #PianoLessons #ProfessionalTechniques
 ---
+
+### Piano education and attributes
 
 You can acquire the skills and knowledge of professional pianists even if you play the piano as a hobby. 
 

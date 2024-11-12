@@ -1,11 +1,15 @@
 ---
-title: Advanced
+title: Advanced Piano Pedagogy
+menu_title: Advanced
 layout: page
 lang: en
 permalink: /advanced/
 page_id: advanced
+feature_text: |
+  From Hobby to Professional Level </span>
+  <span id="highlight"> Piano Pedagogy
 description: |
-  With 21 years of teaching, Selen bridges the gap between hobbyist and professional pianists. From guiding ambitious students to conservatories to helping hobbyists overcome technical hurdles, Selen offers personalized tutoring. Dive into advanced classical piano with repertoire spanning Liszt, Beethoven, Mozart, Chopin, and more. Experience transformative lessons that cater to both worlds. Contact Selen for a unique musical journey. 🎹🎶 #PianoEducation #SelenApaydin #AdvancedPiano
+  Discover Selen Apaydin's unique approach to piano pedagogy, designed to help amateur pianists achieve professional-level skills. Learn about her experience teaching advanced repertoire to non-conservatory students and her methods for overcoming technical challenges. #PianoEducation #AdvancedPianoTechnique
 ---
 
 In my opinion, it is essential that those who practice piano as a hobby achieve a high level of proficiency, comparable to those who have chosen it as their profession. I firmly believe that everyone should have access to the right information and guidance.

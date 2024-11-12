@@ -1,11 +1,16 @@
 ---
-title: Gevorderden
+title: Geavanceerde Pianopedagogie
+menu_title: Gevorderden
 layout: page
 lang: nl
 permalink: /advanced/
 page_id: advanced
 description: |
-  Met 21 jaar lesgeefervaring slaat Selen de brug tussen hobbyisten en professionele pianisten. Van begeleiding van ambitieuze studenten naar conservatoria tot het helpen van hobbyisten bij het overwinnen van technische uitdagingen, biedt Selen persoonlijke begeleiding. Verdiep je in geavanceerde klassieke piano met een repertoire van Liszt, Beethoven, Mozart, Chopin en meer. Onderga transformatieve lessen die beide werelden aanspreken. 🎹🎶 #PianoOnderwijs #SelenApaydin #GevorderdePiano
+feature_text: |
+  Van Hobby naar Professioneel Niveau </span>
+  <span id="highlight"> Pianopedagogie
+description:
+  Ontdek Selen Apaydin's unieke benadering van pianopedagogie, ontworpen om amateurpianisten te helpen professioneel niveau te bereiken. Leer over haar ervaring in het onderwijzen van geavanceerd repertoire aan niet-conservatorium studenten en haar methoden om technische uitdagingen te overwinnen. #PianoOnderwijs #GeavanceerdePianotechniek
 ---
 
 
