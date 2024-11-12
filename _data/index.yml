@@ -1,0 +1,71 @@
+cards:
+  nl:
+  - link: /about/
+    title: Over mij
+    content:
+      Dankzij mijn achtergrond in een muzikale familie, ben ik opgegroeid met een diepe liefde voor muziek.
+      <br><br><br>
+      Ik heb mijn kennis en passie voor de piano gekanaliseerd, en nu, al 21 jaar lang, ben ik bezig met het begeleiden en inspireren van anderen in hun leerproces.
+      <br><br><br>
+      Ik sta hier klaar om mijn expertise te delen met pianoliefhebbers en pianoleraren.
+    feature_image: /assets/img/kawai-digital.jpg
+    button_text: Meer over mij
+  - link: /education/
+    title: Attributen
+    content:
+      Jij kunt de vaardigheden en kennis van professionele pianisten verwerven, zelfs als u als hobby piano speelt. 
+      <br><br><br>
+      Met de tips van een professioneel opgeleide concertpianist om je te helpen de juiste vaardigheden te verwerven, zou je in de toekomst geavanceerde stukken kunnen spelen als je de goede basis leert.
+    feature_image: /assets/img/musical-notes.jpg
+    button_text: Piano onderwijs en attributen
+  - link: /beginners/
+    title: Boost Start
+    content: 
+      Piano leren spelen kan een hele klus zijn. Het kost tijd en geduld, en het is niet altijd duidelijk hoe je moet beginnen.
+      <br><br><br>
+      Met het unieke lesmateriaal dat ik sinds 2019 heb ontwikkeld, een op onderzoek-gebaseerde methode voor beginners, leer je snel de basis en doe je de juiste vaardigheden op om later door te bouwen naar een gevorderd niveau.
+    feature_image: /assets/img/piano-steps.jpg
+    button_text: Boost start voor beginners
+  - link: /advanced/
+    title: Advanced
+    content:
+      Ik beschouw mezelf als gelukkig om het potentieel in jonge studenten te herkennen, en mijn toewijding aan dit vak wordt gevoed door mijn passie om hen te helpen hun talenten te ontsluiten.
+      <br><br><br>
+      Verscheidene van mijn getalenteerde langdurige studenten zijn verder gegaan met hoger onderwijs op universitair niveau, waarbij ze toegelaten werden tot conservatoria die hun weg hebben geplaveid om professionele pianisten te worden. Anderen hebben een meesterschapsniveau bereikt, zelfs als ze voor andere carrières kozen.
+    feature_image: /assets/img/sheet-music.jpg
+    button_text: Advanced technieken
+  en:
+  - link: /about/
+    title: About me
+    content:
+      Thanks to my background in a musical family, I grew up with a deep love for music.
+      <br><br><br>
+      I have channeled my knowledge and passion for the piano, and for 21 years now, to guiding and inspiring others in their learning process.
+      <br><br><br>
+      I am here to share my expertise with piano enthusiasts and piano teachers.
+    feature_image: /assets/img/kawai-digital.jpg
+    button_text: More about me
+  - link: /education/
+    title: Education and attributes
+    content:
+      You can acquire the skills and knowledge of professional pianists even if you play the piano as a hobby. 
+      <br><br><br>
+      With tips from a professionally trained concert pianist to help you acquire the right skills, you could be playing advanced pieces in the future if you learn the right basics.
+    feature_image: /assets/img/musical-notes.jpg
+    button_text: Piano education and attributes
+  - link: /beginners/
+    title: Boost Start
+    content: 
+      Learning to play the piano can be quite a task. It takes time and patience, and it's not always clear how to start.
+      <br><br><br>
+      With the unique teaching material that I have developed since 2019, a research-based method for beginners, you will quickly learn the basics and gain the right skills to later build to an advanced level.  
+    feature_image: /assets/img/piano-steps.jpg
+    button_text: Boost start for beginners
+  - link: /advanced/
+    title: Advanced
+    content:
+      I consider myself fortunate to recognize the potential in young students, and my dedication to this profession is fueled by my passion to help them unlock their talents.
+      <br><br><br>
+      Several of my talented long-term students have gone on to pursue higher education at the university level, gaining admission to conservatories that have paved their way to becoming professional pianists. Others have reached a master's level, even if they chose different career paths
+    feature_image: /assets/img/sheet-music.jpg
+    button_text: Advanced techniques

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <article class="article  article--page  content  typeset  index">
+
+    <section id="wide-div">
+      <section class="hero is-fullheight" id="blog">
+        {% for item in site.data.index.cards[site.active_lang] %}
+            {% include index-card.html %}
+        {% endfor %}
+      </section>
+    </section>
+
+    {% include instagram-feed.html %}
+
+    {{ content }}
+
+  </article>
+
+</main>
+
+{% include site-footer.html %}

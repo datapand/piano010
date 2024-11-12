@@ -1,5 +1,9 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.active_lang }}">
 
   <head>
     <!-- General meta -->
@@ -35,8 +39,14 @@
     {% else %}
       <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
     {% endif %}
+    <link rel="stylesheet" {% static_href %}href="{{ "/assets/styles.css" | relative_url }}" {% endstatic_href %}>
 
-    {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
+    {% for lang in site.languages %}
+      {% capture lang_href %}{{site.baseurl}}{% if lang != site.default_lang %}/{{ lang }}{% endif %}{% if page.permalink_lang[lang] != '/' %}{{page.permalink_lang[lang]}}{% endif %}{% endcapture %}
+      <link rel="alternate" hreflang="{{ lang }}" {% static_href %} href="{{ lang_href }}" {% endstatic_href %} />
+    {% endfor %}
+
+    {% include site-favicons.html %}
 
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
 

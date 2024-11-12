@@ -2,8 +2,11 @@
   <div class="container">
     <div class="copyright  typeset">
       <small class="small">&copy; {{ site.title }} {{ site.time | date: '%Y' }}</small>
+      <br><br>
+      <!-- <small class="small">Bloemstraat, 3014 KH</small><br>
+      <small class="small">Rotterdam / The Netherlands</small> <br> -->
+      {% include button.html footer=true text="Contact" link="/contact" %} {% include button.html footer=true text="Privacy Policy" link="/privacy-policy" %} {% include button.html footer=true text="Terms & Conditions" link="/terms-and-conditions" %}
     </div>
-
     {% include nav-footer.html %}
   </div>
 </footer>

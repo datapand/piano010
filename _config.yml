@@ -9,6 +9,8 @@
 # 8. Site favicons & manifest icons
 # 9. Site navigation
 
+theme: alembic-jekyll-theme
+
 # 1. Files excluded from Jekyll builds
 exclude:
 - README.md
@@ -33,9 +35,10 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- jekyll-polyglot
 
 # 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
+paginate: 5 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
@@ -92,14 +95,14 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+lang: nl-NL # Set the site language
+title: "piano010" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/favicon/favicon.svg" # Site logo, also used in jekyll-seo-tag
+# description: "" # Site description and default description, also used in jekyll-seo-tag
+url: "https://www.piano010.nl" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+# repo: "https://github.com/daviddarnes/alembic"
+email: "selenapaydin@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -120,29 +123,37 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   1024: '/assets/logos/logo@1024px.png'
 
 # 9. Site navigation
-navigation_header:
-- title: Home
-  url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+# navigation_header:
+# - title: Home
+#   url: /
+# - title: Elements
+#   url: /elements/
+# - title: Blog
+#   url: /blog/
+# - title: Categories
+#   url: /categories/
+# - title: Search
+#   url: /search/
+# - title: Fork Alembic
+#   url: https://github.com/daviddarnes/alembic
 
-navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+navigation_header:
+- page_id: home
+- page_id: education
+- page_id: beginners
+- page_id: ebook
+- page_id: advanced
+- page_id: about
+
+# navigation_footer:
+# - title: Selen Apaydın
+#   url: https://www.selenapaydin.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  youtube: https://www.youtube.com/@selenapaydin
+  instagram: https://www.instagram.com/apaydin.selen/
+  quora: https://www.quora.com/profile/Selen-Apaydin
+  link: https://www.selenapaydin.com
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
@@ -159,3 +170,17 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+    - https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+    - https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap
+
+languages: ["en", "nl"]
+default_lang: "nl"
+exclude_from_localization: ["assets/*"]
+parallel_localization: true
+
+sass:
+  sourcemap: never
+
+# Compress
+compress_html:
+  clippings: all
