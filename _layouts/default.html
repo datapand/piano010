@@ -46,8 +46,6 @@ layout: compress
       <link rel="alternate" hreflang="{{ lang }}" {% static_href %} href="{{ lang_href }}" {% endstatic_href %} />
     {% endfor %}
 
-    <link rel="canonical" href="{{site.baseurl}}/{{page.url}}">
-
     {% include site-favicons.html %}
 
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
