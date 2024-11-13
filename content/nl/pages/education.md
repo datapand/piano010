@@ -1,13 +1,13 @@
 ---
-title: "Professionele Pianovaardigheden voor Hobbyisten: Van Beginner tot Gevorderd"
+title: "Professionele Pianovaardigheden: Alle Niveaus"
 menu_title: Onderwijs
 layout: page
 lang: nl
 permalink: /education/
 page_id: education
 feature_text: |
-  Meester Professionele Pianovaardigheden</span>
-  <span id="highlight">Voor Elke Speler, Van Beginner tot Gevorderd
+  Piano Onderwijs en Attributen</span>
+  <span id="highlight">Professionele Pianovaardigheden voor Alle Niveaus
 description: |
   Ontdek hoe u professionele pianovaardigheden kunt verwerven, zelfs als hobbyist. Leer van een ervaren concertpianist en verbeter uw techniek, van beginnersniveau tot geavanceerd. Overwin technische uitdagingen en vul kennishiaten. #PianoLessen #ProfessioneleTechnieken
 ---

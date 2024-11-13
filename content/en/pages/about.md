@@ -2,7 +2,7 @@
 title: Selen Apaydin - Piano Pedagogy and Art
 menu_title: About
 feature_text: |
-  <span id="highlight">Piano Pedagogy and Art</span>
+  Piano Pedagogy and Art
 layout: page
 lang: en
 permalink: /about/

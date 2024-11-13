@@ -1,13 +1,13 @@
 ---
-title: "Boost Start voor Beginners: Versnelde Pianoleermethode"
+title: "Boost Start: Versnelde Pianoleermethode"
 menu_title: Beginners
 layout: page
 lang: nl
 permalink: /beginners/
 page_id: beginners
 feature_text: |
-  Beheers Pianovaardigheden Snel en Effectief </span>
-  <span id="highlight">Boost Start voor Beginners
+  Boost Start voor Beginners</span>
+  <span id="highlight">Beheers Pianovaardigheden Snel en Effectief
 description: |
   Ontdek de Boost Start voor Beginners, een innovatieve pianoleermethode waarmee studenten in slechts 8-12 lessen noten kunnen lezen met beide handen. Ervaar moderne cognitieve leertechnieken ontworpen om je piano-opleiding te versnellen en sneller vaardigheden op professioneel niveau te bereiken. #PianoLeren #BoostStart
 ---

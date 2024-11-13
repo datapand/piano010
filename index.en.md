@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Piano Education Specialist
+title: Piano Lessons in Rotterdam Centre
 menu_title: Home
 feature_text: |
   piano010</span>

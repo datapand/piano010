@@ -5,7 +5,7 @@ lang: nl
 permalink: /terms-and-conditions/
 page_id: terms-and-conditions
 description: |
-  Deze algemene voorwaarden (“Voorwaarden”) zijn van toepassing op het gebruik van www.piano010.nl voor gebruikers wereldwijd en bevatten de voorwaarden waaronder u onze website en diensten kunt gebruiken. Door toegang te krijgen tot of gebruik te maken van de website, bevestigt u dat u deze Voorwaarden hebt gelezen, begrepen en ermee akkoord gaat.
+  Deze algemene voorwaarden gelden voor het wereldwijde gebruik van www.piano010.nl. Ze beschrijven hoe u onze website en diensten kunt gebruiken. Door de site te bezoeken of te gebruiken, bevestigt u dat u deze voorwaarden hebt gelezen, begrepen en ermee akkoord gaat.
 ---
 
 _Laatst bijgewerkt: 16-12-2023_

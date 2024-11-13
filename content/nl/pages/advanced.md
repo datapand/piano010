@@ -7,12 +7,11 @@ permalink: /advanced/
 page_id: advanced
 description: |
 feature_text: |
-  Van Hobby naar Professioneel Niveau </span>
-  <span id="highlight"> Pianopedagogie
+  Geavanceerde Pianopedagogie</span>
+  <span id="highlight">Van Hobby naar Professioneel Niveau
 description:
   Ontdek Selen Apaydin's unieke benadering van pianopedagogie, ontworpen om amateurpianisten te helpen professioneel niveau te bereiken. Leer over haar ervaring in het onderwijzen van geavanceerd repertoire aan niet-conservatorium studenten en haar methoden om technische uitdagingen te overwinnen. #PianoOnderwijs #GeavanceerdePianotechniek
 ---
-
 
 Naar mijn mening is het essentieel dat degenen die piano als hobby beoefenen een hoog niveau van bekwaamheid bereiken, vergelijkbaar met degenen die het als beroep hebben gekozen.
 

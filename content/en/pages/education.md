@@ -1,13 +1,13 @@
 ---
-title: "Professional Piano Skills for Hobbyists: From Beginner to Advanced"
+title: "Piano education and attributes"
 menu_title: Education
 layout: page
 lang: en
 permalink: /education/
 page_id: education
 feature_text: |
-  Master Professional Piano Skills</span>
-  <span id="highlight">For Every Player, From Beginner to Advanced
+  Piano education and attributes</span>
+  <span id="highlight">Professional Piano Skills for All Levels
 description: |
   Discover how you can acquire professional piano skills, even as a hobbyist. Learn from an experienced concert pianist and improve your technique, from beginner level to advanced. Overcome technical challenges and fill knowledge gaps. #PianoLessons #ProfessionalTechniques
 ---
