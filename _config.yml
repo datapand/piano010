@@ -47,7 +47,7 @@ author: Selen Apaydin # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Selen Apaydin # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/D
+    - https://twitter.com/
     - https://www.facebook.com/
     - https://www.linkedin.com/in/
     - https://github.com/

@@ -37,5 +37,5 @@ After realizing how difficult for hobby players to reach a higher level and obse
 
 Please visit these pages for more information on that: 
 
-{% include button.html text="Beginners" link="/beginners/" %} {% include button.html text="eBook" link="/ebook/" %} {% include button.html text="Tutoring testimonials" link="https://www.selenapaydin.com/tutoring" %} 
+{% include button.html text="Beginners" link="/beginners/" %} {% include button.html text="eBook" link="/early-intermediate/" %} {% include button.html text="Tutoring testimonials" link="https://www.selenapaydin.com/tutoring" %} 
 

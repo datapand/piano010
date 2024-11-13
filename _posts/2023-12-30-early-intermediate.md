@@ -9,6 +9,7 @@ feature_text: |
   Repertoire choice for early intermediate
 feature_image: https://picsum.photos/2560/600?image=733
 image: "https://picsum.photos/2560/600?image=733"
+lang: en
 ---
 
 ### What should you explore between the beginners and intermediate level?
