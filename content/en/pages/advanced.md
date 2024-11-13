@@ -37,4 +37,4 @@ I am a lucky pianist because I learned how to play the classical piano from grea
 ​
 Observing many high-level pianists and trying to help amateur piano players led me to identify the differences: I can see the technical problems and offer solutions.
 
-{% include button.html text="Contact & Book Appointment" link="/contact" %} 
+{% include button.html text="Contact & Book Appointment" link="/contact/" %} 

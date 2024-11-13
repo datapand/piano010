@@ -1,11 +1,12 @@
 ---
-title: Early intermediate piano pieces
+title: Why early intermediate piano pieces matter? 
 categories:
 - Repertoire
+- Early intermediate
 excerpt: |
   Explore essential early intermediate piano pieces to ease the transition from beginner to intermediate levels. Discover a curated YouTube playlist and e-Book designed to help students overcome technical challenges and prevent frustration. Ideal for self-learners and teachers, this unique repertoire fills gaps often missed by traditional resources, guiding students to progress confidently.
 feature_text: |
-  Repertoire choice
+  Repertoire choice for early intermediate
 feature_image: https://picsum.photos/2560/600?image=733
 image: "https://picsum.photos/2560/600?image=733"
 ---
@@ -32,4 +33,4 @@ This repertoire is, unfortunately, under-listed by many educational programs, bo
 
 Because the piano teachers who are not actually pianists or do not have much time to research, they conduct the lessons with books or popular songs available to them. I hope this list can help them and their students as well.
 
-{% include button.html text="e-Book Early Intermediate" link="/early-intermediate" %} {% include button.html text="Buy Now" link="https://piano010.tentary.com/p/pu3noz" %}
+{% include button.html text="e-Book Early Intermediate" link="/early-intermediate/" %} {% include button.html text="Buy Now" link="https://piano010.tentary.com/p/pu3noz" %}

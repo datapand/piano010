@@ -44,4 +44,4 @@ Elke compositie is herschreven en bewerkt met een scherp oog voor visuele helder
 
 > Voor zowel pianodocenten als studenten is dit boek bedoeld als ondersteuning, om een soepele overgang te faciliteren van beginnend naar halfgevorderd niveau in klassieke pianospelen.
 
-{% include button.html text="Koop Nu" link="" %} {% include button.html text="Lees Meer" link="/repertoire" %}
+{% include button.html text="Koop Nu" link="https://piano010.tentary.com/p/pu3noz" %} {% include button.html text="Lees Meer" link="/repertoire/" %}
