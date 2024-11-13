@@ -1,5 +1,5 @@
 ---
-title: "Boost start for beginners: Accelerated Piano Learning"
+title: "Boost start: Accelerated Piano Learning"
 menu_title: Beginners
 layout: page
 lang: en

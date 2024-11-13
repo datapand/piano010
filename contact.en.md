@@ -1,5 +1,5 @@
 ---
-title: Contact Your Piano Teacher for Personalized Lessons
+title: Contact piano010 for Personalized Lessons
 menu_title: Contact
 lang: en
 layout: page

@@ -17,7 +17,11 @@
 {% if feature_text %}
   <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
     <div class="container  typeset" style="align-items:flex-start">
-      {{ '# <span id="highlight">' | append: feature_text | markdownify }}
+      {% if page.layout == 'index' %}
+        {{ '## <span id="highlight">' | append: feature_text | markdownify }}
+      {% else %}
+        {{ '# <span id="highlight">' | append: feature_text | markdownify }}
+      {% endif %}
     </div>
   </div>
 {% else %}

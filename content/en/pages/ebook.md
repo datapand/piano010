@@ -7,7 +7,7 @@ permalink: /early-intermediate/
 feature_image: /assets/img/early-intermediate-thumb.png
 page_id: ebook
 description: |
-  Explore the musical journey with Early Intermediate Piano Pieces by Selen Apaydin. This eBook features 23 curated compositions, perfect for students and teachers transitioning from beginner to intermediate levels. Each piece includes enriched scores and insightful annotations to enhance learning. Transform your classical piano education today! 📖 #SelenApaydin #EarlyIntermediate
+  Explore Early Intermediate Piano Pieces by Selen Apaydin. This eBook features 23 curated compositions for students and teachers transitioning from beginner to intermediate levels. Each piece includes enriched scores and helpful annotations. Elevate your classical piano skills today! 📖 #SelenApaydin #EarlyIntermediate
 ---
 
 {% assign items=site.data.ebook.cards[site.active_lang] %}
