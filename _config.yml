@@ -59,7 +59,7 @@ social: # jekyll-seo-tag > social overrides
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
-permalink: none  # Permalink style (/YYYY/MM/DD/page-name/)
+permalink: /:slugified_categories/:title # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
@@ -72,6 +72,8 @@ collections:
     feature_text: |
       Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
+  pages:
+    title: Pages
 
 # 6. Jekyll collections settings
 defaults:
@@ -92,6 +94,16 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+  - scope:
+      path: "_pages/en"
+    values:
+      layout: page
+      language: en
+  - scope:
+      path: "_pages/nl"
+    values:
+      layout: page
+      language: nl
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
