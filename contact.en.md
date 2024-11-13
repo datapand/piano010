@@ -5,13 +5,19 @@ lang: en
 layout: page
 feature_text: |
   Contact Us
-feature_image: 
+feature_image: /assets/img/hammer-unsplash.jpg
 permalink: /contact/
 page_id: contact
 aside: true
 description: |
   Get in touch with piano010 to schedule your piano lessons today! Fill out our contact form for inquiries about classes, availability, and more. We look forward to helping you learn music!
 ---
+
+Get in touch with piano010 to schedule your piano lessons today!
+
+Fill out our contact form for inquiries about classes, availability, and more. 
+
+We look forward to helping you learn music!
 
 {% include contact-form.html %}
 

@@ -89,7 +89,7 @@ If you wish to stop data processing, contact us via the email provided in the co
 
 ### 7. Contacting Us
 
-If you have any questions about this Privacy Policy, contact us at: [www.piano010.nl/contact](http://www.piano010.nl/contact).
+If you have any questions about this Privacy Policy, contact us at: [www.piano010.nl/contact](/contact).
 
 ### Useful Links for Cookie Settings
 

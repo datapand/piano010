@@ -89,7 +89,7 @@ Als u niet wilt dat we uw gegevens verwerken, neem dan contact met ons op via he
 
 ### 7. Contact met Ons Opnemen
 
-Als u vragen heeft over dit Privacybeleid, neem dan contact met ons op via: [www.piano010.nl/contact](http://www.piano010.nl/contact).
+Als u vragen heeft over dit Privacybeleid, neem dan contact met ons op via: [www.piano010.nl/contact](/contact).
 
 ### Nuttige Links voor Cookie-instellingen
 
