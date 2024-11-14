@@ -1,5 +1,5 @@
 ---
-title: Waarom zijn vroege intermediaire pianostukken belangrijk?
+title: Waarom zijn deze pianostukken belangrijk?
 categories:
 - Repertoire
 - Vroege intermediair
@@ -10,6 +10,7 @@ feature_text: |
 feature_image: https://picsum.photos/2560/600?image=733
 image: "https://picsum.photos/2560/600?image=733"
 lang: nl
+page_id: stuck
 ---
 
 ### Wat kun je ontdekken tussen het beginners- en intermediaire niveau?

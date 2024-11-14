@@ -43,9 +43,9 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username:  # jekyll-seo-tag > Owners twitter username
-author: Selen Apaydin # jekyll-seo-tag > default author
+author: Selen Apaydın # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Selen Apaydin # jekyll-seo-tag > real name
+  name: Selen Apaydın # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/
     - https://www.facebook.com/
@@ -197,10 +197,3 @@ sass:
 # Compress
 compress_html:
   clippings: all
-
-webrick:
-  headers:
-    X-XSS-Protection: 1; mode=block
-    X-Frame-Options: SAMEORIGIN
-    X-Content-Type-Options: nosniff
-    Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
