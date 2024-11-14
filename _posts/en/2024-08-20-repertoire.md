@@ -11,6 +11,7 @@ feature_image: https://picsum.photos/2560/600?image=733
 image: "https://picsum.photos/2560/600?image=733"
 permalink: /repertoire/
 page_id: repertoire
+lang: en
 ---
 
 ## Repertoire choice (ongoing research)
