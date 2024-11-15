@@ -50,6 +50,7 @@ layout: compress
     {% include site-fonts.html %}
 
     {% include site-before-start.html %}
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
@@ -60,6 +61,8 @@ layout: compress
     {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
 
     {% include site-before-end.html %}
+
+    {% include cookie-consent.html %}
   </body>
 
 </html>
