@@ -26,6 +26,19 @@ cards:
       Met het unieke lesmateriaal dat ik sinds 2019 heb ontwikkeld, een op onderzoek-gebaseerde methode voor beginners, leer je snel de basis en doe je de juiste vaardigheden op om later door te bouwen naar een gevorderd niveau.
     feature_image: /assets/img/piano-steps.jpg
     button_text: Boost start voor beginners
+  - link: /early-intermediate/
+    title: Pianostukken voor vroeg-halfgevorderd
+    content:
+      "Naarmate pianisten zich ontwikkelen, komen ze vaak een cruciale maar uitdagende overgangsfase tegen. 
+      <br><br><br>
+      Dit boek biedt een zorgvuldig samengestelde selectie van stukken, strategisch ontworpen om de vaardigheden te oefenen die nodig zijn:
+      <br>
+      - om obstakels op weg naar een hoger niveau piano spelen te overwinnen,
+      <br>
+      - en om problemen te voorkomen die kunnen ontstaan door een te snelle overgang naar wat vaak onterecht het 'halfgevorderde' niveau wordt genoemd."
+    feature_image: /assets/img/early-intermediate-pad.png
+    button_text: Meer over de pianostukken
+    style: "background-size: contain; margin: 25px 0 10px 0;"
   - link: /advanced/
     title: Advanced
     content:
@@ -61,6 +74,17 @@ cards:
       With the unique teaching material that I have developed since 2019, a research-based method for beginners, you will quickly learn the basics and gain the right skills to later build to an advanced level.  
     feature_image: /assets/img/piano-steps.jpg
     button_text: Boost start for beginners
+  - link: /early-intermediate/
+    title: Early Intermediate piano pieces
+    content:
+      As pianists progress, they often encounter a pivotal yet challenging transitional phase.
+      <br><br><br>
+      This book curates a selection of meticulously chosen pieces, strategically crafted to practice skills necessary for overcoming obstacles commonly faced on the path toward higher-level piano playing.
+      <br><br><br>
+      Prevent the problems caused by prematurely transitioning to what is often mistakenly known as the 'intermediate' level.
+    feature_image: /assets/img/early-intermediate-pad.png
+    button_text: More about the eBook and the pieces
+    style: "background-size: contain; margin: 25px 0 10px 0;"
   - link: /advanced/
     title: Advanced
     content:
