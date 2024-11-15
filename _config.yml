@@ -74,35 +74,30 @@ collections:
     feature_image: "https://picsum.photos/2560/600?image=866"
   pages:
     title: Pages
+    output: true
 
 # 6. Jekyll collections settings
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       image: "/assets/default-social-image.png" # Default image for sharing
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: post # Set the default layout for posts
-  -
-    scope:
-      path: ""
+  - scope:
+      path: "pages/en"
       type: "pages"
     values:
       layout: page # Set the default layout for pages
-  - scope:
-      path: "content/en"
-    values:
-      layout: page
       language: en
   - scope:
-      path: "content/nl"
+      path: "pages/nl"
+      type: "pages"
     values:
-      layout: page
+      layout: page # Set the default layout for pages
       language: nl
 
 # 7. Site settings
@@ -122,9 +117,6 @@ email: "selenapaydin@gmail.com"
 # service_worker: false # Will turn off the service worker if set to false
 # short_name: "Al" # The web application short name, defaults to the site title
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
-
-include:
-  - content
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
