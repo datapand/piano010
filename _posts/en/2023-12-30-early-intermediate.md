@@ -4,7 +4,7 @@ categories:
 - Repertoire
 - Early intermediate
 excerpt: |
-  Explore essential early intermediate piano pieces to ease the transition from beginner to intermediate levels. Discover a curated YouTube playlist and e-Book designed to help students overcome technical challenges and prevent frustration. Ideal for self-learners and teachers, this unique repertoire fills gaps often missed by traditional resources, guiding students to progress confidently.
+  Explore essential early intermediate piano pieces to ease the transition from beginner to intermediate. This curated YouTube playlist and eBook help students tackle technical challenges and avoid frustration. Ideal for self-learners and teachers, this repertoire fills gaps often missed by traditional resources, empowering students to progress confidently.
 feature_text: |
   Repertoire choice for early intermediate
 feature_image: https://picsum.photos/2560/600?image=733

@@ -8,7 +8,10 @@ layout: default
 
   <article class="article  article--post  content  typeset">
 
-    <h1>{{ page.title }}</h1>
+    {% if page.lang != site.active_lang %}
+      {% include no-translation.html %}
+    {% endif %}
+
     {% include post-meta.html %}
     {{ content }}
 

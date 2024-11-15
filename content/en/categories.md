@@ -6,4 +6,5 @@ aside: true
 lang: en
 page_id: categories
 permalink: /categories/
+indexing: false
 ---

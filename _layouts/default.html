@@ -10,7 +10,7 @@ layout: compress
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% if page.indexing == false %}
+    {% if page.indexing == false or page.lang != site.active_lang %}
       <meta name="robots" content="noindex">
     {% endif %}
 
@@ -45,7 +45,8 @@ layout: compress
 
     {% include site-favicons.html %}
 
-    {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
+    {% include cookie-consent.html %}
+    <!-- {% if site.google_analytics %}{% include site-analytics.html %}{% endif %} -->
 
     {% include site-fonts.html %}
 

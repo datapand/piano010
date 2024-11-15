@@ -4,7 +4,7 @@ categories:
 - Repertoire
 - Vroege intermediair
 excerpt: |
-  Ontdek essentiële vroege intermediaire pianostukken om de overgang van beginner naar intermediair niveau te vergemakkelijken. Bekijk een zorgvuldig samengestelde YouTube-afspeellijst en een e-boek die zijn ontworpen om studenten te helpen technische uitdagingen te overwinnen en frustratie te voorkomen. Ideaal voor zelfstudie en docenten, biedt dit unieke repertoire een aanvulling op traditionele middelen en helpt studenten zelfverzekerd vooruitgang te boeken.
+  Ontdek essentiële vroeg-intermediaire pianostukken voor een soepele overgang van beginner naar gevorderde. Onze YouTube-playlist en e-boek helpen studenten technische uitdagingen aan te gaan en frustratie te voorkomen. Ideaal voor zelfstudie en docenten, dit unieke repertoire vult hiaten in traditionele leermiddelen en bevordert zelfverzekerde vooruitgang.
 feature_text: |
   Repertoirekeuze voor vroege intermediaire niveaus
 feature_image: https://picsum.photos/2560/600?image=733
