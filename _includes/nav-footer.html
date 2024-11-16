@@ -16,8 +16,12 @@
   </ul>
 </nav>
 {% else %}
-<section class="section  section--description">
+<section class="section  sectionfooter--description">
   <!-- <p>{{ site.description }}</p> -->
   {% include nav-social.html %}
+  <br>
+  {% include button.html footer=true text="Contact" link="/contact/" %}<br>
+  {% include button.html footer=true text="Privacy Policy" link="/privacy-policy/" %} <br>
+  {% include button.html footer=true text="Terms & Conditions" link="/terms-and-conditions/" %}
 </section>
 {% endif %}

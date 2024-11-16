@@ -13,7 +13,10 @@ span.highlighted {
     font-weight: 700;
     background:rgba(255, 255, 255, .7) ;
     box-shadow: 10px 0 0 rgba(255, 255, 255, .7), -5px 0 0 rgba(255, 255, 255, .7);
-    padding: 5px 0
+    border-radius: 5px;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    padding: 0 5px 0 5px;
   }
 
 textarea#message {
@@ -162,4 +165,8 @@ a.button {
 
 div.cc-revoke {
     display: none;
+}
+
+section.section.sectionfooter--description {
+    padding: 0;
 }

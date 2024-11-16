@@ -13,6 +13,8 @@ page_id: home
 permalink: /
 ---
 
-<h1 style="visibility: hidden">
+<h1 style="display: none">
 Piano Lessons in Rotterdam - Piano Education Specialist
 </h1>
+
+## Recent posts:
