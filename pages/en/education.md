@@ -6,8 +6,9 @@ lang: en
 permalink: /education/
 page_id: education
 feature_text: |
-  Piano education and attributes</span>
-  <span class="highlighted">Professional Piano Skills for All Levels
+  Piano education and attributes
+feature_subtext: |
+  Professional Piano Skills for All Levels
 description: |
   Discover how you can acquire professional piano skills, even as a hobbyist. Learn from an experienced concert pianist and improve your technique, from beginner level to advanced. Overcome technical challenges and fill knowledge gaps. #PianoLessons #ProfessionalTechniques
 ---

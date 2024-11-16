@@ -1,4 +1,5 @@
 {% assign feature_text = page.feature_text %}
+{% assign feature_subtext = page.feature_subtext %}
 {% assign feature_image = page.feature_image %}
 {% if page.collectionpage %}
   {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
@@ -20,7 +21,10 @@
       {% if page.layout == 'index' %}
         {{ '## <span class="highlighted">' | append: feature_text | markdownify }}
       {% else %}
-        {{ '# <span class="highlighted">' | append: feature_text | markdownify }}
+      <span class="highlighted">{{ '# ' | append: feature_text | markdownify }}</span>
+      {% endif %}
+      {% if feature_subtext %}
+      {{ feature_subtext | prepend: '<span class="highlighted subtext">' | append: '</span>' | markdownify }}
       {% endif %}
     </div>
   </div>

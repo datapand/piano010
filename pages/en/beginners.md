@@ -6,8 +6,9 @@ lang: en
 permalink: /beginners/
 page_id: beginners
 feature_text: |
-  Boost Start for Beginners </span>
-  <span class="highlighted"> Master Piano Skills Quickly and Effectively
+  Boost Start for Beginners 
+feature_subtext: |
+   Master Piano Skills Quickly and Effectively
 description: |
   Discover the Boost Start for Beginners, an innovative piano teaching method that helps students read notes with both hands in just 8-12 lessons. Experience modern cognitive learning techniques designed to accelerate your piano education and achieve professional-level skills faster. #PianoLearning #BoostStart
 ---
