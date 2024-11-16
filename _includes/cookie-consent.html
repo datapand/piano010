@@ -1,18 +1,9 @@
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
-<script>
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#000"
-    },
-    "button": {
-      "background": "#f1d600"
+<script src="/assets/scripts/cookie-consent.js"></script>
+{% if page.page_id == 'privacy-policy' %}
+<style>
+    div.cc-revoke {
+        display: block;
     }
-  },
-  "type": "opt-in",
-  "content": {
-    "message": "This website uses cookies to ensure you get the best experience here.",
-    "href": "https://link-to-your-own-terms-page"
-  }
-});
-</script>
+</style>
+{% endif %}

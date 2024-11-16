@@ -62,7 +62,8 @@ layout: compress
 
     {% include site-before-end.html %}
 
-    {% include cookie-consent.html %}
+    {% if site.google_analytics %}{% include cookie-consent.html %}{% endif %}
+    
   </body>
 
 </html>
