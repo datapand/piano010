@@ -45,7 +45,7 @@ layout: compress
 
     {% include site-favicons.html %}
 
-    {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
+    {% if site.google_analytics %}{% include site-analytics.html %}{% gtm head %}{% endif %}
 
     {% include site-fonts.html %}
 
@@ -62,8 +62,8 @@ layout: compress
 
     {% include site-before-end.html %}
 
-    {% if site.google_analytics %}{% include cookie-consent.html %}{% endif %}
-    
+    {% if site.google_analytics %}{% include cookie-consent.html %}{% gtm body %}{% endif %}
+
   </body>
 
 </html>

@@ -36,6 +36,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-polyglot
+- jekyll-google-tag-manager
 
 # 3. Gem settings
 paginate: 5 # jekyll-paginate > items per page
@@ -114,6 +115,9 @@ email: "selenapaydin@gmail.com"
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 google_analytics: "G-REKS9ZP8LY"
 # google_analytics_anonymize_ip: ""
+google:
+  tag_manager:
+    container_id: GTM-5XQJHP2Z
 # service_worker: false # Will turn off the service worker if set to false
 # short_name: "Al" # The web application short name, defaults to the site title
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
