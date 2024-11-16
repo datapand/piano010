@@ -4,7 +4,7 @@ title: Piano Lessons in Rotterdam Centre
 menu_title: Home
 feature_text: |
   piano010</span>
-  <span id="highlight">Piano Education Specialist</span>
+  <span class="highlighted">Piano Education Specialist</span>
 feature_image: /assets/img/piano010-pianoles-rotterdam.jpg
 excerpt: |
   Piano lessons in Rotterdam Centrum with Selen Apaydin, a classical pianist with 20 years of experience. Offering private lessons for all levels, in-person or online. Learn music theory, artistic values, and composition techniques. Enhance your skills with expert guidance from a concert pianist!

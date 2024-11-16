@@ -7,7 +7,7 @@ permalink: /advanced/
 page_id: advanced
 feature_text: |
   Advanced Piano Pedagogy</span>
-  <span id="highlight">From Hobby to Professional Level
+  <span class="highlighted">From Hobby to Professional Level
 description: |
   Discover Selen Apaydin's unique approach to piano pedagogy, designed to help amateur pianists achieve professional-level skills. Learn about her experience teaching advanced repertoire to non-conservatory students and her methods for overcoming technical challenges. #PianoEducation #AdvancedPianoTechnique
 ---

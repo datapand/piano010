@@ -4,7 +4,7 @@ title: Pianoles in Rotterdam Centrum
 menu_title: Home
 feature_text: |
   piano010</span>
-  <span id="highlight">Piano-Onderwijs Specialist
+  <span class="highlighted">Piano-Onderwijs Specialist
 feature_image: /assets/img/piano010-pianoles-rotterdam.jpg
 excerpt: |
   Pianolessen in Rotterdam Centrum met ervaren klassieke pianiste Selen Apaydin. Privélessen voor alle niveaus, zowel in het centrum als online. Leer pianotechniek, muziektheorie en compositie onder begeleiding van een concertpianist. Ontwikkel je vaardigheden en versnel je pianoreis.

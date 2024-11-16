@@ -166,6 +166,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   instagram: https://www.instagram.com/apaydin.selen/
   quora: https://www.quora.com/profile/Selen-Apaydin
   link: https://www.selenapaydin.com
+  email: mailto:selenapaydin@gmail.com
+  whatsapp: https://wa.me/31625247506?text=Dear%20Selen,%20I'm%20writing%20for%20
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour

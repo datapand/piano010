@@ -9,7 +9,8 @@ html {
     overflow-y: auto
   }
 
-#highlight {
+span.highlighted {
+    font-weight: 700;
     background:rgba(255, 255, 255, .7) ;
     box-shadow: 10px 0 0 rgba(255, 255, 255, .7), -5px 0 0 rgba(255, 255, 255, .7);
     padding: 5px 0
@@ -52,7 +53,7 @@ textarea#message {
         margin: 1.5rem auto;
     }
 
-    #blog-card {
+    .blog-card {
         transition: all 0.25s ease;
         margin-bottom: 0.5vmax;
         transform: scale(0.85);
@@ -140,9 +141,10 @@ textarea#message {
 @import "alembic";
 
 a.button.footer {
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
     background: dimgray;
+    width: -webkit-fill-available;
 }
 
 a.button {
