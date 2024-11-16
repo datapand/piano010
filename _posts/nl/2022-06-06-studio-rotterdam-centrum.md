@@ -16,6 +16,6 @@ page_id: studio
 ### Pianos
 
 
-### Address 
+### Locatie
 
 {% include g-map.html %}

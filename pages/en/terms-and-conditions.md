@@ -6,6 +6,8 @@ permalink: /terms-and-conditions/
 page_id: terms-and-conditions
 description: |
   These terms and conditions ("Terms") govern the use of www.piano010.nl for worldwide users and set forth the terms and conditions under which you may use our website and services as offered by us. By accessing or using the website, you approve that you have read, understood, and agree to be bound by these Terms.
+indexing: false
+sitemap: false
 ---
 
 _Last updated: 16-12-2023_

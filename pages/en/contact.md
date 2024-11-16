@@ -13,14 +13,6 @@ description: |
   Get in touch with piano010 to schedule your piano lessons today! Fill out our contact form for inquiries about classes, availability, and more. We look forward to helping you learn music!
 ---
 
-Get in touch with piano010 to schedule your piano lessons today!
-
-Fill out our contact form for inquiries about classes, availability, and more. 
-
-We look forward to helping you learn music!
+Get in touch for any inquieries related to the piano playing!
 
 {% include contact-form.html %}
-
-### Address 
-
-{% include g-map.html %}

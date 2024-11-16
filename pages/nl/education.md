@@ -13,8 +13,6 @@ description: |
   Ontdek hoe u professionele pianovaardigheden kunt verwerven, zelfs als hobbyist. Leer van een ervaren concertpianist en verbeter uw techniek, van beginnersniveau tot geavanceerd. Overwin technische uitdagingen en vul kennishiaten. #PianoLessen #ProfessioneleTechnieken
 ---
 
-### Piano Onderwijs en Attributen
-
 Jij kunt de vaardigheden en kennis van professionele pianisten verwerven, zelfs als u als hobby piano speelt. 
 Met de tips van een professioneel opgeleide concertpianist om je te helpen de juiste vaardigheden te verwerven, zou je in de toekomst geavanceerde stukken kunnen spelen als je de goede basis leert.
 

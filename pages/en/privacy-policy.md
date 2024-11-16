@@ -7,6 +7,8 @@ permalink: /privacy-policy/
 page_id: privacy-policy
 description: |
   This Privacy Policy outlines how www.piano010.nl collects, uses, maintains, and discloses information collected from users of the website. We are committed to protecting the privacy of our users and ensuring the security of their personal information.
+indexing: false
+sitemap: false
 ---
 
 _Last Updated: 16-12-2023_

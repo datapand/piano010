@@ -1,15 +1,15 @@
 
 <form id="piano010 Contact Form" class="topBefore" method="POST" action="/thanks" target="_blank" netlify>
-  <input id="name" autocomplete="on" type="text" name="name" required=true placeholder="Name and Surname">
+  <input id="name" autocomplete="on" type="text" name="name" required=true placeholder="{{ site.data.strings.name_surname }}">
   <br>
-  <input id="email" autocomplete="on" type="email" name="email" required=true placeholder="E-mail address">
+  <input id="e-mail" autocomplete="on" type="email" name="email" required=true placeholder="{{ site.data.strings.email_address }}">
   <br>
-  <input id="subject" type="text" name="subject" required=true placeholder="Subject">
+  <input id="subject" type="text" name="subject" required=true placeholder="{{ site.data.strings.subject }}">
   <br>
-  <textarea id="message" name="message" type="text" required=true placeholder="Message"></textarea>
+  <textarea id="message" name="message" type="text" required=true placeholder="{{ site.data.strings.message }}"></textarea>
   <br>
   <input id="accept" type="checkbox" required="required" aria-required="true" name="accept"> 
-  <label for="accept">I have read the <a href="/privacy-policy">privacy policy</a> and accept it.</label><br>
+  <label for="accept">{{ site.data.strings.accept }}</label><br>
   <br>
   <!-- <input id="submit" type="submit" value="Send"> -->
   <button type="submit">Send</button>

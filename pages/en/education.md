@@ -13,8 +13,6 @@ description: |
   Discover how you can acquire professional piano skills, even as a hobbyist. Learn from an experienced concert pianist and improve your technique, from beginner level to advanced. Overcome technical challenges and fill knowledge gaps. #PianoLessons #ProfessionalTechniques
 ---
 
-### Piano education and attributes
-
 You can acquire the skills and knowledge of professional pianists even if you play the piano as a hobby. 
 
 With tips from a professionally trained concert pianist to help you acquire the right skills, you could be playing advanced pieces in the future if you learn the right basics.

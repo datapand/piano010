@@ -1,1 +1,6 @@
 no_translation: "Sorry, this page is not available in English."
+name_surname: Name and Surname
+email_address: E-mail address
+subject: Subject
+message: Message
+accept: I have read the <a href="/privacy-policy">privacy policy</a> and accept it.
