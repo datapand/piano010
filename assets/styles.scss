@@ -139,15 +139,12 @@ textarea#message {
     border-radius: 0%;
 }
 
-@import url('https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css');
-
-@import "alembic";
-
 a.button.footer {
     font-size: 12px;
     font-weight: bold;
     background: dimgray;
     width: -webkit-fill-available;
+    display: inline-flex
 }
 
 a.button {
@@ -171,3 +168,7 @@ div.cc-revoke {
 section.section.sectionfooter--description {
     padding: 0;
 }
+
+@import url('https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css');
+
+@import "alembic";
