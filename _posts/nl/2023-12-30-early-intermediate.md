@@ -35,4 +35,4 @@ Dit repertoire wordt helaas door veel educatieve programma's, boekenreeksen of o
 
 Omdat pianodocenten die zelf geen pianisten zijn of weinig tijd hebben voor onderzoek, vaak lessen geven met boeken of populaire liedjes die voor hen beschikbaar zijn. Ik hoop dat deze lijst hen en hun studenten ook kan helpen.
 
-{% include button.html text="e-Book Vroeg Intermediair" link="/early-intermediate/" %} {% include button.html text="Koop Nu" link="https://piano010.tentary.com/p/pu3noz" %}
+{% include button.html text="e-Book Vroeg Intermediair" link="/early-intermediate/" %} {% include button.html text="Koop Nu" link="https://piano010.tentary.com/p/pu3noz/checkout" %}

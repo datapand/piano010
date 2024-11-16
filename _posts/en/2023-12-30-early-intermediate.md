@@ -35,4 +35,4 @@ This repertoire is, unfortunately, under-listed by many educational programs, bo
 
 Because the piano teachers who are not actually pianists or do not have much time to research, they conduct the lessons with books or popular songs available to them. I hope this list can help them and their students as well.
 
-{% include button.html text="e-Book Early Intermediate" link="/early-intermediate/" %} {% include button.html text="Buy Now" link="https://piano010.tentary.com/p/pu3noz" %}
+{% include button.html text="e-Book Early Intermediate" link="/early-intermediate/" %} {% include button.html text="Buy Now" link="https://piano010.tentary.com/p/pu3noz/checkout" %}

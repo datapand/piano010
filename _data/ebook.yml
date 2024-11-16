@@ -1,6 +1,6 @@
 cards:
   nl:
-  - link: https://piano010.tentary.com/p/pu3noz
+  - link: https://piano010.tentary.com/p/pu3noz/checkout
     title: Een selectie van klassieke solo pianorepertoire
     content: |
       Repertoirekeuze voor de overgang van beginner naar halfgevorderd
@@ -10,7 +10,7 @@ cards:
     button_text: Koop nu!
     style: "background-size: contain;  margin: 25px 0 10px 0;"
   en:
-  - link: https://piano010.tentary.com/p/pu3noz
+  - link: https://piano010.tentary.com/p/pu3noz/checkout
     title: A selection of classical solo piano repertoire
     content: |
       Repertoire choice for transitioning from beginner to intermediate

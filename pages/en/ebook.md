@@ -46,4 +46,4 @@ Each composition has been rewritten and edited with a keen eye on enhancing visu
 
 > For both piano teachers and students, this book aims to provide assistance, facilitating a smooth transition from beginner to intermediate classical piano playing.
 
-{% include button.html text="Buy Now" link="https://piano010.tentary.com/p/pu3noz" %} {% include button.html text="Read More" link="/repertoire/" %}
+{% include button.html text="Buy Now" link="https://piano010.tentary.com/p/pu3noz/checkout" %} {% include button.html text="Read More" link="/repertoire/" %}
