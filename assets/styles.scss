@@ -4,6 +4,13 @@ styles: true
 layout: compress
 ---
 
+.footer {
+    padding: 3rem 1.5rem 0.5rem;
+}
+
+hr {
+    background-color: white;
+}
 
 html {
     overflow-y: auto

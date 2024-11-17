@@ -49,9 +49,9 @@ social: # jekyll-seo-tag > social overrides
   name: Selen Apaydın # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/
-    - https://www.facebook.com/
-    - https://www.linkedin.com/in/
-    - https://github.com/
+    - https://www.facebook.com/pianistandpianotutor
+    - https://www.linkedin.com/in/selen-apaydin-b920a63/
+    - https://www.instagram.com/apaydin.selen/
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -60,7 +60,7 @@ social: # jekyll-seo-tag > social overrides
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
-permalink: /:slugified_categories/:title # Permalink style (/YYYY/MM/DD/page-name/)
+permalink: /:slugified_categories/:title # Permalink style (/category1/category2/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
@@ -124,30 +124,10 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+  192: '/assets/favicon/web-app-manifest-192x192.png'
+  512: '/assets/favicon/web-app-manifest-512x512.png'
 
 # 9. Site navigation
-# navigation_header:
-# - title: Home
-#   url: /
-# - title: Elements
-#   url: /elements/
-# - title: Blog
-#   url: /blog/
-# - title: Categories
-#   url: /categories/
-# - title: Search
-#   url: /search/
-# - title: Fork Alembic
-#   url: https://github.com/daviddarnes/alembic
-
 navigation_header:
 - page_id: home
 - page_id: education
@@ -157,17 +137,12 @@ navigation_header:
 - page_id: about
 - page_id: contact
 
-# navigation_footer:
-# - title: Selen Apaydın
-#   url: https://www.selenapaydin.com
-
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   youtube: https://www.youtube.com/@selenapaydin
   instagram: https://www.instagram.com/apaydin.selen/
+  facebook: https://www.facebook.com/pianistandpianotutor
   quora: https://www.quora.com/profile/Selen-Apaydin
-  link: https://www.selenapaydin.com
-  email: mailto:selenapaydin@gmail.com
-  whatsapp: https://wa.me/31625247506?text=Dear%20Selen,%20I'm%20writing%20for%20
+  twitter:  https://www.x.com/
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
