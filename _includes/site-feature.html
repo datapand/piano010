@@ -16,16 +16,34 @@
 {% endif %}
 
 {% if feature_text %}
-  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
+  {% assign image_org = feature_image | split: '.' | first %}
+  {% assign image_ext = feature_image | split: '.' | last %}
+
+  {% assign jpgtypes = 'jpg, jpeg' | split: ", " %}
+  
+  {% if jpgtypes contains image_ext %}
+    {% assign image_type = "image/jpeg" %}
+  {% else %}
+    {% assign image_type = image_ext | prepend: "image/" %}
+  {% endif %}
+
+  <div class="feature" style='background-image: url("{{ feature_image }}");
+    background-image: image-set(url("{{ image_org }}.webp") type("image/webp"), url("{{ feature_image }}") type("{{ image_type }}"));
+    background-image: -webkit-image-set(url("{{ image_org }}.webp") type("image/webp"), url("{{ feature_image }}") type("{{ image_type }}"));'>
+
+
     <div class="container  typeset" style="align-items:flex-start">
-      {% if page.layout == 'index' %}
+      
+    {% if page.layout == 'index' %}
       <span class="highlighted">{{ '## ' | append: feature_text | markdownify }}</span>
-      {% else %}
+    {% else %}
       <span class="highlighted">{{ '# ' | append: feature_text | markdownify }}</span>
-      {% endif %}
-      {% if feature_subtext %}
+    {% endif %}
+    
+    {% if feature_subtext %}
       {{ feature_subtext | prepend: '<span class="highlighted subtext">' | append: '</span>' | markdownify }}
-      {% endif %}
+    {% endif %}
+
     </div>
   </div>
 {% else %}

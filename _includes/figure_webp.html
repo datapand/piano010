@@ -1,0 +1,10 @@
+<figure class="figure  figure--{{ include.position | default: 'center' }}">
+    <picture>
+      {% assign image_org = include.image | split: '.' | first %}
+      {% assign image_ext = include.image | split: '.' | second %}
+      <source type="image/webp" srcset="{{ image_org | append: '.webp' }}">
+      <source type="image/jpeg" srcset="{{ include.image }}">
+      <img class="image" src="{{ include.image }}" alt="{{ include.alt | default: include.caption }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}>
+    </picture>
+    {% if include.caption %}<figcaption class="caption">{{ include.caption }}</figcaption>{% endif %}
+  </figure>
