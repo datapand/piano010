@@ -1,0 +1,21 @@
+{% assign feature_image = include.image %}
+{% assign image_org = feature_image | split: '.' | first %}
+{% assign image_ext = feature_image | split: '.' | last %}
+
+{% assign jpgtypes = 'jpg, jpeg' | split: ", " %}
+
+{% if jpgtypes contains image_ext %}
+  {% assign image_type = "image/jpeg" %}
+{% else %}
+  {% assign image_type = image_ext | prepend: "image/" %}
+{% endif %}
+
+{% assign style_background='background-image: url("' | append: feature_image | append: '");
+  background-image: image-set(url("' | append: image_org | append: '.webp") type("image/webp"), url("' | append: feature_image | append: '") type("' | append: image_type | append: '"));
+  background-image: -webkit-image-set(url("' | append: image_org | append: '.webp") type("image/webp"), url("' | append: feature_image | append: '") type("' | append: image_type | append: '"));' %}
+
+{% comment %}
+<!-- style_background is returned to be fed to an element -->
+To be used as:
+<div class="image is-16by9" style='{{ style_background }}'></div>
+{% endcomment %}

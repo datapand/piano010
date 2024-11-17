@@ -16,21 +16,10 @@
 {% endif %}
 
 {% if feature_text %}
-  {% assign image_org = feature_image | split: '.' | first %}
-  {% assign image_ext = feature_image | split: '.' | last %}
 
-  {% assign jpgtypes = 'jpg, jpeg' | split: ", " %}
+  {% include background-image.html image=feature_image %}
   
-  {% if jpgtypes contains image_ext %}
-    {% assign image_type = "image/jpeg" %}
-  {% else %}
-    {% assign image_type = image_ext | prepend: "image/" %}
-  {% endif %}
-
-  <div class="feature" style='background-image: url("{{ feature_image }}");
-    background-image: image-set(url("{{ image_org }}.webp") type("image/webp"), url("{{ feature_image }}") type("{{ image_type }}"));
-    background-image: -webkit-image-set(url("{{ image_org }}.webp") type("image/webp"), url("{{ feature_image }}") type("{{ image_type }}"));'>
-
+  <div class="feature" style='{{ style_background }}'>
 
     <div class="container  typeset" style="align-items:flex-start">
       
