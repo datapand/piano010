@@ -38,4 +38,4 @@ With tips from a professionally trained concert pianist to help you acquire the 
 
 Recognizing that many individuals who struggle to play the piano quickly, as desired, and effortlessly, this is often due to improper techniques. Unfortunately, many learn from apps or instructors who are not qualified as pianists, and are often proficient in other instruments at an intermediate level. Fortunately, when taught by a skilled concert pianist, especially one with a classical background, students can quickly adapt and improve their skills.
 
-{% include button.html text="e-Book Vroeg Intermediair" link="/beginners/" %} {% include button.html text="e-Book Vroeg Intermediair" link="/early-intermediate/" %} {% include button.html text="e-Book Vroeg Intermediair" link="/advanced/" %}
+{% include button.html text="Boost Start for Beginners" link="/beginners/" %} {% include button.html text="e-Book Early Intermediate Piano Pieces" link="/early-intermediate/" %} {% include button.html text="Advanced Piano Pedagogy" link="/advanced/" %}

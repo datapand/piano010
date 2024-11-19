@@ -37,6 +37,7 @@ plugins:
 - jemoji
 - jekyll-polyglot
 - jekyll-google-tag-manager
+- jekyll-minifier
 
 # 3. Gem settings
 paginate: 5 # jekyll-paginate > items per page
@@ -131,10 +132,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - page_id: home
 - page_id: education
-- page_id: beginners
+  submenu:
+  - page_id: beginners
+  - page_id: ebook
+  - page_id: advanced
 - page_id: ebook
-- page_id: advanced
 - page_id: about
+- page_id: blog
+  menu_title: Posts
+  link: /blog/
 - page_id: contact
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
@@ -173,3 +179,6 @@ sass:
 # Compress
 compress_html:
   clippings: all
+
+jekyll-minifier:
+  exclude: 'sitemap.xml'

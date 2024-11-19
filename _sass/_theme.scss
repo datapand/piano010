@@ -211,6 +211,9 @@ body {
   }
 }
 
+a.selected {
+  color: $captionColour;
+}
 
 // Links, icons and images
 a .icon {
