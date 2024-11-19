@@ -11,6 +11,10 @@ indexing: false
 sitemap: false
 ---
 
+<a href="javascript:history.back()">Go Back</a>
+
+<a href="#" id="open_preferences_center">Update cookies preferences</a>
+
 _Last Updated: 16-12-2023_
 
 This Privacy Policy outlines how www.piano010.nl collects, uses, maintains, and discloses information from website users. We are committed to protecting user privacy and securing personal information.

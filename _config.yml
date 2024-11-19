@@ -113,7 +113,7 @@ repo: "https://github.com/datapand/piano010"
 email: "selenapaydin@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
-google_analytics: "G-REKS9ZP8LY"
+# google_analytics: "G-REKS9ZP8LY"
 # google_analytics_anonymize_ip: ""
 google:
   tag_manager:

@@ -11,6 +11,10 @@ indexing: false
 sitemap: false
 ---
 
+<a href="javascript:history.back()">Go Back</a>
+
+<a href="#" id="open_preferences_center">Update cookies preferences</a>
+
 _Laatst bijgewerkt: 16-12-2023_
 
 Dit Privacybeleid beschrijft hoe www.piano010.nl informatie verzamelt, gebruikt, bewaart en openbaar maakt van gebruikers van de website. We zijn toegewijd aan het beschermen van de privacy van onze gebruikers en het beveiligen van hun persoonlijke informatie.

@@ -1,8 +1,10 @@
 {% if page.categories %}
   {% capture categories %}
+  <span class="label  label--category">
     {% for category in page.categories %}
-      <span class="label  label--category"><a href="{{ site.baseurl }}/categories/#{{ category | downcase | slugify }}">{{ category }}</a></span>{% if forloop.last == false %},{% endif %}
+      <a href="{{ site.baseurl }}/categories/#{{ category | downcase | slugify }}">{{ category }}</a>{% if forloop.last == false %},{% endif %}
     {% endfor %}
+  </span>
   {% endcapture %}
 {% elsif page.category %}
   {% capture categories %}

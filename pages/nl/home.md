@@ -17,3 +17,5 @@ permalink: /
 <h1 style="visibility: hidden">
 Pianoles in Rotterdam Centrum - Piano-Onderwijs Specialist
 </h1>
+
+## Recente Posts

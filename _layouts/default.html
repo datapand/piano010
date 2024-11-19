@@ -45,15 +45,21 @@ layout: compress
 
     {% include site-favicons.html %}
 
-    {% if site.google_analytics %}{% include site-analytics.html %}{% gtm head %}{% endif %}
+    {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
+    {% gtm head %}
 
     {% include site-fonts.html %}
 
     {% include site-before-start.html %}
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+    {% include cookie-consent.html %}
+    <!--  -->
+    <!-- ​<script id="CookieConsent" src="https://policy.app.cookieinformation.com/uc.js" data-culture="DA" type="text/javascript" data-gcm-enabled=”false”></script> -->
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
+
+<!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
+
     {% include site-icons.svg %}
 
     {{ content }}
@@ -62,7 +68,7 @@ layout: compress
 
     {% include site-before-end.html %}
 
-    {% if site.google_analytics %}{% include cookie-consent.html %}{% gtm body %}{% endif %}
+    {% gtm body %}
 
   </body>
 

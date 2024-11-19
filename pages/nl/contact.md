@@ -11,18 +11,12 @@ page_id: contact
 aside: true
 description: |
   Neem contact op met piano010 om vandaag nog uw pianolessen te plannen! Vul ons contactformulier in voor vragen over lessen, beschikbaarheid en meer. We kijken ernaar uit u te helpen bij het leren van muziek!
+indexing: false
+sitemap: false
 ---
 
 Neem contact op met piano010 om vandaag nog uw pianolessen te plannen! 
 
-Vul ons contactformulier in voor vragen over lessen, beschikbaarheid en meer. 
-
-We kijken ernaar uit u te helpen bij het leren van muziek.
-
 ### Contact Form
 
 {% include contact-form.html %}
-
-### Adres
-
-{% include g-map.html %}
