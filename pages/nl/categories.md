@@ -7,5 +7,6 @@ lang: nl
 page_id: categories
 permalink: /categories/
 indexing: false
+sitemap: false
 ---
 

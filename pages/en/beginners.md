@@ -3,7 +3,7 @@ title: "Boost start: Accelerated Piano Learning"
 menu_title: Beginners
 layout: page
 lang: en
-permalink: /beginners/
+permalink: /piano-lesson/beginners/
 page_id: beginners
 feature_text: |
   Boost Start for Beginners 

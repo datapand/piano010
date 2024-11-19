@@ -1,6 +1,6 @@
 cards:
   nl:
-  - link: /about/
+  - page_id: about
     title: Over mij
     content:
       Dankzij mijn achtergrond in een muzikale familie, ben ik opgegroeid met een diepe liefde voor muziek.
@@ -10,7 +10,7 @@ cards:
       Ik sta hier klaar om mijn expertise te delen met pianoliefhebbers en pianoleraren.
     feature_image: /assets/img/kawai-digital.jpg
     button_text: Meer over mij
-  - link: /education/
+  - page_id: education
     title: Attributen
     content:
       Jij kunt de vaardigheden en kennis van professionele pianisten verwerven, zelfs als u als hobby piano speelt. 
@@ -18,7 +18,7 @@ cards:
       Met de tips van een professioneel opgeleide concertpianist om je te helpen de juiste vaardigheden te verwerven, zou je in de toekomst geavanceerde stukken kunnen spelen als je de goede basis leert.
     feature_image: /assets/img/musical-notes.jpg
     button_text: Piano onderwijs en attributen
-  - link: /beginners/
+  - page_id: beginners
     title: Boost Start
     content: 
       Piano leren spelen kan een hele klus zijn. Het kost tijd en geduld, en het is niet altijd duidelijk hoe je moet beginnen.
@@ -26,7 +26,7 @@ cards:
       Met het unieke lesmateriaal dat ik sinds 2019 heb ontwikkeld, een op onderzoek-gebaseerde methode voor beginners, leer je snel de basis en doe je de juiste vaardigheden op om later door te bouwen naar een gevorderd niveau.
     feature_image: /assets/img/piano-steps.jpg
     button_text: Boost start voor beginners
-  - link: /early-intermediate/
+  - page_id: early-intermediate
     title: Pianostukken voor vroeg-halfgevorderd
     content:
       "Naarmate pianisten zich ontwikkelen, komen ze vaak een cruciale maar uitdagende overgangsfase tegen. 
@@ -39,7 +39,7 @@ cards:
     feature_image: /assets/img/early-intermediate-pad.png
     button_text: Meer over de pianostukken
     style: "background-size: contain; margin: 25px 0 10px 0;"
-  - link: /advanced/
+  - page_id: advanced
     title: Advanced
     content:
       Ik beschouw mezelf als gelukkig om het potentieel in jonge studenten te herkennen, en mijn toewijding aan dit vak wordt gevoed door mijn passie om hen te helpen hun talenten te ontsluiten.
@@ -48,7 +48,7 @@ cards:
     feature_image: /assets/img/sheet-music.jpg
     button_text: Advanced technieken
   en:
-  - link: /about/
+  - page_id: about
     title: About me
     content:
       Thanks to my background in a musical family, I grew up with a deep love for music.
@@ -58,7 +58,7 @@ cards:
       I am here to share my expertise with piano enthusiasts and piano teachers.
     feature_image: /assets/img/kawai-digital.jpg
     button_text: More about me
-  - link: /education/
+  - page_id: education
     title: Education and attributes
     content:
       You can acquire the skills and knowledge of professional pianists even if you play the piano as a hobby. 
@@ -66,7 +66,7 @@ cards:
       With tips from a professionally trained concert pianist to help you acquire the right skills, you could be playing advanced pieces in the future if you learn the right basics.
     feature_image: /assets/img/musical-notes.jpg
     button_text: Piano education and attributes
-  - link: /beginners/
+  - page_id: beginners
     title: Boost Start
     content: 
       Learning to play the piano can be quite a task. It takes time and patience, and it's not always clear how to start.
@@ -74,7 +74,7 @@ cards:
       With the unique teaching material that I have developed since 2019, a research-based method for beginners, you will quickly learn the basics and gain the right skills to later build to an advanced level.  
     feature_image: /assets/img/piano-steps.jpg
     button_text: Boost start for beginners
-  - link: /early-intermediate/
+  - page_id: ebook
     title: Early Intermediate piano pieces
     content:
       As pianists progress, they often encounter a pivotal yet challenging transitional phase.
@@ -85,7 +85,7 @@ cards:
     feature_image: /assets/img/early-intermediate-pad.png
     button_text: More about the eBook and the pieces
     style: "background-size: contain; margin: 25px 0 10px 0;"
-  - link: /advanced/
+  - page_id: advanced
     title: Advanced
     content:
       I consider myself fortunate to recognize the potential in young students, and my dedication to this profession is fueled by my passion to help them unlock their talents.

@@ -19,10 +19,3 @@ page_id: studio
 ### Location
 
 {% include g-map.html %}
-
-```json
-{{ site.posts | jsonify }}
-
-{% assign posts_in_lang = site.posts | where: 'lang', site.active_lang %}
-{{ posts_in_lang | jsonify }}
-```

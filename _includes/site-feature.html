@@ -5,24 +5,22 @@
   {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
   {% assign feature_text = collectiondata.feature_text %}
   {% assign feature_image = collectiondata.feature_image %}
+  {% assign feature_subtext = page.feature_subtext %}
 {% endif %}
 
 {% if feature_image %}
 {% else %}
-  {% assign page_feats = site.data.index.cards[site.active_lang] | where: 'link', page.permalink %}
-  {% for item in page_feats %}
-    {% assign feature_image = item.feature_image %}
-  {% endfor %}
+  {% assign page_feat = site.data.index.cards[site.active_lang] | where: 'page_id', page.page_id | first %}
+  {% assign feature_image = page_feat.feature_image %}
 {% endif %}
 
 {% if feature_text %}
 
   {% include background-image.html image=feature_image %}
-  
   <div class="feature" style='{{ style_background }}'>
 
     <div class="container  typeset" style="align-items:flex-start">
-      
+
     {% if page.layout == 'index' %}
       <span class="highlighted">{{ '## ' | append: feature_text | markdownify }}</span>
     {% else %}

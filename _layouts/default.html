@@ -51,7 +51,7 @@ layout: compress
     {% include site-fonts.html %}
 
     {% include site-before-start.html %}
-    {% include cookie-consent.html %}
+    {% include cookie-consent-head.html %}
     <!--  -->
     <!-- ​<script id="CookieConsent" src="https://policy.app.cookieinformation.com/uc.js" data-culture="DA" type="text/javascript" data-gcm-enabled=”false”></script> -->
   </head>
@@ -69,7 +69,7 @@ layout: compress
     {% include site-before-end.html %}
 
     {% gtm body %}
-
+    {% include cookie-consent-body.html %}
   </body>
 
 </html>
