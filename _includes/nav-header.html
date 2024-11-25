@@ -1,65 +1,121 @@
 {% if site.navigation_header %}
-<nav class="nav  nav--header">
+<nav class="nav nav--header">
   <div class="menu">
-  <ul class="list  list--nav">
-    {% for menu_item in site.navigation_header %}
-      {% if menu_item.link %}
-      <li class="item  item--nav{% if item.link == page.url %}  item--current{% endif %}">
+    <ul class="list list--nav">
+      {% for menu_item in site.navigation_header %} {% if menu_item.link %}
+      <li
+        class="item item--nav{% if item.link == page.url %} item--current{% endif %}"
+      >
         <a hreflang="{{ site.active_lang }}" href="{{ menu_item.link }}">
           {{ menu_item.title }}
         </a>
       </li>
-      {% endif %}
-      {% for item in site.html_pages %}
-        {% if item.page_id == menu_item.page_id %}
-          {% if menu_item.submenu %}
-            <li class="item  item--nav">
-                <a class="{% if item.permalink == page.url %}selected{% endif %}" hreflang="{{ site.active_lang }}" href="{{ item.permalink_lang[site.active_lang] }}">{{ item.menu_title }}</a>
-                  <ul class="sublist">
-                    <li class="submenu">
-                      <a class="{% if item.permalink == page.url %}selected{% endif %}" hreflang="{{ site.active_lang }}" href="{{ item.permalink_lang[site.active_lang] }}">{{ item.feature_text }}</a>
-                    </li>
-                    <hr>
-                    {% for subitem in menu_item.submenu %}
-                      {% assign subpage = site.html_pages | where: 'page_id', subitem.page_id | first %}
-                      <li class="submenu">
-                        <a class="{% if subpage.permalink == page.url %}selected{% endif %}" hreflang="{{ site.active_lang }}" href="{{ subpage.url }}">
-                          {%if subpage.feature_text %}
-                            {{ subpage.feature_text }}
-                          {% else %}
-                            {{ subpage.title }}
-                          {% endif %}
-                          </a>
-                      </li>
-                    {% endfor %}
-                  </ul>
-
-            </li>
-          {% else %}
-          <li class="item  item--nav{% if item.permalink == page.url %}  item--current{% endif %}">
-            <a hreflang="{{ site.active_lang }}" href="{{ item.permalink_lang[site.active_lang] }}">
-              {% if item.menu_title %}
-              {{ item.menu_title }} 
-              {% else %}
-              {{ item.title }}
-              {% endif %}
+      {% endif %} {% for item in site.html_pages %} {% if item.page_id ==
+      menu_item.page_id %} {% if menu_item.submenu %}
+      <li class="item item--nav">
+        <a
+          class="{% if item.permalink == page.url %}selected{% endif %}"
+          hreflang="{{ site.active_lang }}"
+          onclick="toggle_dropdown('{{ item.menu_title | slugify }}')"
+          >{{ item.menu_title }}</a
+        >
+        <ul class="sublist" id="{{ item.menu_title | slugify }}">
+          <li class="submenu">
+            <a
+              class="{% if item.permalink == page.url %}selected{% endif %}"
+              hreflang="{{ site.active_lang }}"
+              href="{{ item.permalink_lang[site.active_lang] }}"
+              >{{ item.feature_text }}</a
+            >
+          </li>
+          <hr />
+          {% for subitem in menu_item.submenu %} {% assign subpage =
+          site.html_pages | where: 'page_id', subitem.page_id | first %}
+          <li class="submenu">
+            <a
+              class="{% if subpage.permalink == page.url %}selected{% endif %}"
+              hreflang="{{ site.active_lang }}"
+              href="{{ subpage.url }}"
+            >
+              {%if subpage.feature_text %} {{ subpage.feature_text }} {% else %}
+              {{ subpage.title }} {% endif %}
             </a>
           </li>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-    {% include lang-switcher.html %}
-  </ul>
+          {% endfor %}
+        </ul>
+      </li>
+      {% else %}
+      <li
+        class="item item--nav{% if item.permalink == page.url %} item--current{% endif %}"
+      >
+        <a
+          hreflang="{{ site.active_lang }}"
+          href="{{ item.permalink_lang[site.active_lang] }}"
+        >
+          {% if item.menu_title %} {{ item.menu_title }} {% else %} {{
+          item.title }} {% endif %}
+        </a>
+      </li>
+      {% endif %} {% endif %} {% endfor %} {% endfor %}
+      <li class="item item--nav">{% include lang-switcher.html %}</li>
+    </ul>
   </div>
-  <button class="button  button--nav" aria-label="Menu toggle">
+  <button class="button button--nav" aria-label="Menu toggle">
     {% include icon.html id="nav" title="Menu" %}
   </button>
 </nav>
-{% else %}
-  {% include nav-default.html %}
-{% endif %}
+{% else %} {% include nav-default.html %} {% endif %}
 
 <script type="text/javascript">
-  const navList=document.querySelector(".header .list--nav"),button=document.querySelector(".header .button--nav"),collapseNav=()=>{document.body.clientWidth<800?navList.style.setProperty("--listHeight",`-${navList.offsetHeight}px`):navList.removeAttribute("style"),button.onclick=()=>{navList.style.setProperty("transition","margin .1s"),navList.style.getPropertyValue("--listHeight")?navList.style.removeProperty("--listHeight"):navList.style.setProperty("--listHeight",`-${navList.offsetHeight}px`)}};collapseNav(),window.addEventListener("resize",()=>{collapseNav()});
+  const navList = document.querySelector(".header .list--nav"),
+    navHeader = document.querySelector(".header .nav--header"),
+    button = document.querySelector(".header .button--nav"),
+    collapseNav = () => {
+      document.body.clientWidth < 800
+        ? navList.style.setProperty(
+            "--listHeight",
+            `-${navList.offsetHeight}px`
+          )
+        : navList.removeAttribute("style"),
+        (button.onclick = () => {
+          navList.style.setProperty("transition", "margin .1s"),
+            navList.style.getPropertyValue("--listHeight")
+              ? navList.style.removeProperty("--listHeight")
+              : navList.style.setProperty(
+                  "--listHeight",
+                  `-${navList.offsetHeight}px`
+                );
+          navHeader.style.setProperty("width", "100%");
+          toggle_burger();
+        });
+    };
+  collapseNav(),
+    window.addEventListener("resize", () => {
+      navList.classList.remove("show");
+      collapseNav();
+    });
+
+  function toggle_dropdown(menu_title) {
+    const submenu = document.getElementById(menu_title);
+    document.body.clientWidth > 800
+      ? submenu.classList.toggle("show")
+      : submenu.classList.remove("show");
+  };
+
+  function toggle_burger() {
+    const items = document.querySelectorAll(".header .item--nav");
+    items.forEach((element) => {
+      element.classList.toggle("burger-menu");
+    });
+  };
+
+  window.onclick = function(e) {
+    if (!e.target.matches('a') && !e.target.matches('iconify-icon')) {
+      var items = document.querySelectorAll("ul .show");
+      items.forEach((element) => {
+        element.classList.remove('show');
+        });
+      };
+    e.stopPropagation();
+  };
 </script>

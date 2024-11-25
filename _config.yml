@@ -139,7 +139,7 @@ navigation_header:
 - page_id: ebook
 - page_id: about
 - page_id: blog
-  menu_title: Posts
+  title: Posts
   link: /blog/
 - page_id: contact
 

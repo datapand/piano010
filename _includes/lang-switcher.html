@@ -1,11 +1,23 @@
-{% for lang in site.languages %}
-    {% if lang == site.active_lang %}
-{{ lang }}
-    {% else %}
-        {% if lang == site.default_lang %}
-<a {% static_href %} href="{{ page.permalink_lang[lang] }}" {% endstatic_href %}>{{ lang }}</a>
-{% else %}
-<a href="/{{lang}}{{ page.permalink_lang[lang] }}">{{ lang }}</a>
+
+<a
+class="{% if item.permalink == page.url %}selected{% endif %}"
+hreflang="{{ site.active_lang }}"
+onclick="toggle_dropdown('language')"
+>
+{% include lang-icon.html lang=site.active_lang %}</a>
+<ul class="sublist" id="language">
+    {% for lang in site.languages %}
+    <li class="submenu">
+        {% if lang == site.active_lang %}
+            <a href="#" hreflang="{{lang}}" >
+            {% include lang-icon.html lang=lang %}</a>
+        {% else %}
+            {% if lang == site.default_lang %}
+                <a hreflang="{{lang}}" {% static_href %} href="{{ page.permalink_lang[lang] }}" {% endstatic_href %}>{% include lang-icon.html lang=lang %}</a>
+            {% else %}
+                <a hreflang="{{lang}}" href="/{{lang}}{{ page.permalink_lang[lang] }}">{% include lang-icon.html lang=lang %}</a>
+            {% endif %}
         {% endif %}
-    {% endif %}
-{% endfor %}
+    {% endfor %}
+    </li>
+</ul>

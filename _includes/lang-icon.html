@@ -1,0 +1,9 @@
+{% assign lang = include.lang %}
+{% assign icon_size = include.icon_size | default: 17 %}
+{% if lang == 'en' %}
+<iconify-icon title="English" icon="emojione-v1:flag-for-united-kingdom" width="{{ icon_size }}" height="{{ icon_size }}"></iconify-icon>
+{% elsif lang == 'nl' %}
+<iconify-icon title="Netherlands" icon="emojione-v1:flag-for-netherlands" width="{{ icon_size }}" height="{{ icon_size }}"></iconify-icon>
+{% else %}
+<iconify-icon icon="material-symbols-light:emoji-language" width="{{ icon_size }}" height="{{ icon_size }}"></iconify-icon>
+{% endif %}
