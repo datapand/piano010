@@ -19,6 +19,6 @@ lang: en
 ### Exploring Patterns and Technical Movements in Advanced & Intermediate Repertoire
 ​[Click here](/assets/resources/LL-sight-reading-repertoire-1st-list.pdf) to access the 1st list. 
 
-#### Listen a demo of the 1st sight reading session:
+Listen a demo of the 1st sight reading session:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2gi4_IZgB-g?si=AqyIhsfx13E51DSn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include video.html id="2gi4_IZgB-g" title="LL sightreading" %}
