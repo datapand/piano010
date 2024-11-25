@@ -34,4 +34,4 @@ Nadat ik me realiseerde hoe moeilijk het is voor hobbyspelers om een ​​hoger
 
 Bezoek deze pagina's voor meer informatie hierover:
 
-{% include button.html text="Beginners" link="/beginners/" %} {% include button.html text="eBook" link="/early-intermediate" %} {% include button.html text="Tutoring testimonials" link="https://www.selenapaydin.com/tutoring" %} 
+{% include button.html text="Beginners" page_id="beginners" %} {% include button.html text="eBook" page_id="ebook" %} {% include button.html text="Tutoring testimonials" link="https://www.selenapaydin.com/tutoring" %} 

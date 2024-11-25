@@ -48,4 +48,4 @@ Onderaan de pagina vind je verschillende contactgegevens.
 
 Je mag altijd een gedetailleerde e-mail sturen waarin je jezelf voorstelt, kort je motivatie uitlegt en bijvoorbeeld meer informatie vraagt over de lessen of meteen een les online boeken.
 
-{% include button.html text="Contact & Book Appointment" link="/contact/" %} 
+{% include button.html text="Contact & Book Appointment" page_id="contact" %} 

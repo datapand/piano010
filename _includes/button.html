@@ -1,1 +1,7 @@
-<a class="button{% if include.footer %}  footer{% endif %}" href="{{ include.link | default: '#' }}"{% if include.color %} style="background: {{ include.color }}"{% endif %}>{{ include.text | default: "Button" }}{% if include.icon %}&nbsp; {% include icon.html id=include.icon title=include.icon %}{% endif %}</a>
+{% if include.page_id %}
+    {% assign link_to_page = site.html_pages | where: 'page_id', include.page_id | where: 'lang', site.active_lang | first %}
+    {% assign direct_to = link_to_page.url %}
+{% elsif include.link %}
+    {% assign direct_to = include.link %}
+{% endif %}
+{% assign external = direct_to | split: 'http' %}<a class="button{% if include.footer %}  footer{% endif %}" href="{{ direct_to | default: '#' }}"{% if external[0] == blank %} target="_blank"{% endif %}{% if include.color %} style="background: {{ include.color }}"{% endif %}>{{ include.text | default: "Button" }}{% if include.icon %}&nbsp; {% include icon.html id=include.icon title=include.icon %}{% endif %}</a>

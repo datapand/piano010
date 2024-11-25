@@ -10,8 +10,12 @@
             <!-- {{ post.content | truncate: 300 | strip_html | strip_newlines | strip | escape }} -->
             {{ item.content }}
             <hr class="has-background-white">
-            {% assign link_to_page = site.html_pages | where: 'page_id', item.page_id | where: 'lang', site.active_lang | first %}
-            {% include button.html text=item.button_text link=link_to_page.url %}
+            {% if item.page_id %}
+                {% assign link_to_page = site.html_pages | where: 'page_id', item.page_id | where: 'lang', site.active_lang | first %}
+                {% include button.html text=item.button_text link=link_to_page.url %}
+            {% elsif item.link %}
+                {% include button.html text=item.button_text link=item.link %}
+            {% endif %}
         </div>
         <br><br>
     </div>

@@ -40,4 +40,4 @@ Tijdens mijn 21 jaar ervaring met lesgeven, vooral de 9 jaar dat ik op verschill
 
 Door veel pianisten van hoog niveau te observeren en amateurpianisten te helpen, ontdekte ik de verschillen: ik kan de technische problemen zien en oplossingen bieden.
 
-{% include button.html text="Contact & Book Appointment" link="/contact/" %} 
+{% include button.html text="Contact & Book Appointment" page_id="contact" %} 

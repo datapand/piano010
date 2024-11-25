@@ -56,4 +56,4 @@ You're welcome to send a detailed email, introducing yourself, briefly explainin
 
 You can also schedule a lesson directly through the Consultancy page on this website.
 
-{% include button.html text="Contact & Book Appointment" link="/contact/" %} 
+{% include button.html text="Contact & Book Appointment" page_id="contact" %} 

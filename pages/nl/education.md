@@ -38,4 +38,4 @@ Met de tips van een professioneel opgeleide concertpianist om je te helpen de ju
 
 ​Het inzien dat veel individuen die moeite hebben om snel, zoals gewenst, en moeiteloos piano te spelen, dit vaak te wijten is aan onjuiste technieken. Helaas leren velen van apps of instructeurs die niet gekwalificeerd zijn als pianisten, en vaak bedreven zijn in andere instrumenten op een gemiddeld niveau. Gelukkig, wanneer ze worden onderwezen door een bekwame concertpianist, vooral een met een klassieke achtergrond, kunnen studenten zich snel aanpassen en hun vaardigheden verbeteren.
 
-{% include button.html text="Boost Start voor Beginners" link="/beginners/" %} {% include button.html text="Vroeg Intermediair Repertoire" link="/early-intermediate/" %} {% include button.html text="Advanced" link="/advanced/" %}
+{% include button.html text="Boost Start voor Beginners" page_id="beginners" %} {% include button.html text="Vroeg Intermediair Repertoire" page_id="ebook" %} {% include button.html text="Advanced" page_id="advanced" %}
