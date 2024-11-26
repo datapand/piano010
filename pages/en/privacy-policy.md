@@ -1,28 +1,28 @@
 ---
-title: Privacy Policy
-layout: page
-featured-img: shane-rounce-205187
-lang: en
-permalink: /privacy-policy/
-page_id: privacy-policy
-description: |
-  This Privacy Policy outlines how www.piano010.nl collects, uses, maintains, and discloses information collected from users of the website. We are committed to protecting the privacy of our users and ensuring the security of their personal information.
-indexing: false
-sitemap: false
+title: Privacy Policy  
+layout: page  
+featured-img: shane-rounce-205187  
+lang: en  
+permalink: /privacy-policy/  
+page_id: privacy-policy  
+description: |  
+  This Privacy Policy outlines how www.piano010.nl collects, uses, maintains, and discloses information collected from users of the website. We are committed to protecting the privacy of our users and ensuring the security of their personal information.  
+indexing: false  
+sitemap: false  
 ---
 
-<a href="javascript:history.back()">Go Back</a>
+<a href="javascript:history.back()">Go Back</a>  
 
-<a href="#" id="open_preferences_center">Update cookies preferences</a>
+<a href="#" id="open_preferences_center">Update cookies preferences</a>  
 
-_Last Updated: 16-12-2023_
+_Last Updated: 26-11-2024_
 
 This Privacy Policy outlines how www.piano010.nl collects, uses, maintains, and discloses information from website users. We are committed to protecting user privacy and securing personal information.
 
-### 1. About Piano010
+### 1. About piano010
 
 - **Chamber of Commerce No:** 24484995
-- Piano010 provides piano education services and digital products aimed at enhancing piano education.
+- piano010 provides piano education services and digital products aimed at enhancing piano education.
 
 **Services and Offers:**  
 [www.piano010.nl](http://www.piano010.nl) offers information on piano education services and provides digital products aimed at enhancing piano education.
@@ -35,7 +35,7 @@ We collect personal information in various ways, such as when users:
 - Register, place an order, purchase
 - Subscribe to our newsletter, respond to surveys, or fill out forms  
 
-Personal data may include name, email address, mailing address, phone number, and payment information. Information entered during purchase is managed by Wix, which also hosts www.piano010.nl. Third-party links provided during purchases are governed by the terms of those sites.
+Personal data may include name, email address, mailing address, phone number, and payment information. Information entered during purchase is managed by Tentary.com. Third-party links provided during purchases are governed by the terms of those sites.
 
 #### 2.2 Non-personal Identification Information
 We may collect non-personal data, such as:
@@ -49,13 +49,13 @@ We may collect non-personal data, such as:
 - **To Send Periodic Emails:** Updates regarding orders, inquiries, or other requests. Users can opt-in to receive updates, news, and product info.
 
 #### 2.4 Protection of Information
-We use appropriate practices and security measures to protect personal information, including usernames, passwords, transaction information, and other data stored on our site.
+We use appropriate practices and security measures to protect personal information, including transaction information and other data stored on our site.
 
 #### 2.5 Sharing Personal Information
 We do not sell, trade, or rent personal information. However, we may share generic, aggregated demographic data (not linked to any personal information) with business partners, affiliates, and advertisers.
 
 #### 2.6 Storage, Use, and Disclosure of Information
-Our site is hosted on Wix.com. Your data may be stored through Wix’s secure data storage, databases, and general Wix applications. All payment gateways adhere to PCI-DSS standards for secure credit card information handling.
+Our site is hosted on Netlify.app. Your data may be stored through Netlify’s secure data storage and databases.
 
 #### 2.7 Third-Party Websites and Services
 Our site may contain links to partner sites, advertisers, or third parties. We do not control the content or links on these sites and are not responsible for their practices. Visiting these sites is subject to their terms and policies.
@@ -63,15 +63,12 @@ Our site may contain links to partner sites, advertisers, or third parties. We d
 #### 2.8 Data Collection Rights
 You have the right to request a copy of your personal information and delete or stop its usage, subject to applicable laws. Please note this does not affect processing that has already occurred.
 
-#### 2.9 Data Collection by Wix and Rights
-Data such as contact details, orders, and invoices are collected by Wix, the platform of www.piano010.nl. We can retrieve, provide, or delete your data upon request. View the [Wix Data Protection Policy](https://www.wix.com/about/privacy-dpa-users) for more information.
-
 ### 3. Cookies and Tracking Tools
 
-**3.1 Third-Party Services:**  
-Third-party services (e.g., Google Analytics) may place cookies or use tracking technologies. Practices by these external services are not covered by Wix's Privacy Policy.
+#### 3.1 Third-Party Services  
+Third-party services (e.g., Google Analytics) may place cookies or use tracking technologies. Practices by these external services are not covered by this Privacy Policy.
 
-**3.2 Types of Cookies:**
+#### 3.2 Types of Cookies:
 
 - **Necessary Cookies:** Essential for website functionality, including security and accessibility.
 - **Analytical Cookies:** Help understand visitor interactions by collecting information anonymously.

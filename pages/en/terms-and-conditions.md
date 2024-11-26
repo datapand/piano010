@@ -10,14 +10,16 @@ indexing: false
 sitemap: false
 ---
 
-_Last updated: 16-12-2023_
+<a href="javascript:history.back()">Go Back</a>  
 
-These terms and conditions (“Terms”) govern the use of www.piano010.nl for worldwide users and set forth the terms and conditions under which you may use our website and services as offered by us. By accessing or using the website, you confirm that you have read, understood, and agree to be bound by these Terms.
+_Last updated: 26-11-2024_
 
-### About Piano010
+These terms and conditions ("Terms") govern the use of www.piano010.nl for worldwide users and set forth the terms and conditions under which you may use our website and services as offered by us. By accessing or using the website, you confirm that you have read, understood, and agree to be bound by these Terms.
+
+### About piano010
 
 - **Chamber of Commerce No.:** 24484995
-- Piano010 provides piano education services and offers digital products aimed at enhancing piano education.
+- piano010 provides piano education services and offers digital products aimed at enhancing piano education.
 
 #### 1.1 Services and Offers
 www.piano010.nl provides visitors with information on piano education services and offers digital products to improve piano education.
@@ -28,7 +30,7 @@ We may, without prior notice, modify the services, stop providing the services o
 ### Copyright and Intellectual Property Rights
 
 #### 2.1 Ownership
-All e-books and content available on www.piano010.nl are protected by copyright and intellectual property laws in accordance with Dutch Civil Law. Ownership and rights remain with Piano010 or the respective copyright holders.
+All e-books and content available on www.piano010.nl are protected by copyright and intellectual property laws in accordance with Dutch Civil Law. Ownership and rights remain with piano010 or the respective copyright holders.
 
 #### 2.2 License
 Upon purchase, you are granted a non-exclusive, non-transferable license to use the e-book for personal, non-commercial purposes. You may not reproduce, distribute, or resell the e-book without explicit permission.
@@ -37,7 +39,7 @@ Upon purchase, you are granted a non-exclusive, non-transferable license to use 
 You agree not to modify, reverse engineer, or attempt to extract the source code of any software contained in the e-book.
 
 #### 2.4 Intellectual Property Rights
-The services and all materials contained therein, including, but not limited to, images, text, graphics, logos, copyrights, photographs, audio, videos, and music, are the exclusive property of Piano010 or the respective copyright holders. You agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit, or create derivative works thereof without permission.
+The services and all materials contained therein, including, but not limited to, images, text, graphics, logos, copyrights, photographs, audio, videos, and music, are the exclusive property of piano010 or the respective copyright holders. You agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit, or create derivative works thereof without permission.
 
 ### Sale of Digital Products
 
@@ -48,7 +50,7 @@ www.piano010.nl offers digital products in the form of e-books, available for pu
 Product prices are listed in euros and may change without prior notice. Payment is a one-time transaction and does not recur.
 
 #### 3.3 Payment
-During the purchase process, you will be redirected to Wix’s platform for payment processing. Third-party websites will handle the payment process, and Wix’s platform terms govern payment conditions. Please review the [Wix Terms of Payment](https://www.wix.com/about/terms-of-payments) for more information.
+During the purchase process, you will be redirected to Tentary.com for payment processing. Third-party websites will handle the payment process, and Tentary's terms govern payment conditions.
 
 #### 3.4 Delivery
 Upon successful payment, you will receive an email with download instructions for accessing the purchased e-book.
@@ -69,10 +71,10 @@ You agree that by using this website, you are not permitted to use the website o
 ### Limitation of Liability
 
 #### 6.1 Use
-The e-books are provided “as is” without warranties of any kind, express or implied. Piano010 is not liable for any damages arising from the use or inability to use the e-books.
+The e-books are provided "as is" without warranties of any kind, express or implied. piano010 is not liable for any damages arising from the use or inability to use the e-books.
 
 #### 6.2 Indemnification
-You agree to indemnify and hold Piano010 harmless from any claims, damages, losses, liabilities, or expenses (including attorney’s fees) made by any third party arising out of or related to your use of the website or services.
+You agree to indemnify and hold piano010 harmless from any claims, damages, losses, liabilities, or expenses (including attorney's fees) made by any third party arising out of or related to your use of the website or services.
 
 #### 6.3 Exclusion of Liability
 To the fullest extent permitted by law, www.piano010.nl is not liable for any indirect, special, or consequential damages arising from the use of or inability to use the services.
@@ -80,18 +82,7 @@ To the fullest extent permitted by law, www.piano010.nl is not liable for any in
 ### Third-Party Links
 
 #### 7.1 External Services
-As some third-party apps (such as displaying Instagram feeds) are controlled by third parties, Wix has no control over potential cookies that may be placed through our website.
-
-#### 7.2 Data Collection
-We collect information when you register on our site, place an order, respond to a survey, fill out a form, or provide feedback. We use this information to improve our products and services.
-
-#### 7.3 Data Collection by Wix
-Contact details, orders, and other data are collected by Wix. Upon request, we can retrieve user data, provide a copy, and delete it if needed. See [Wix Data Protection](https://www.wix.com/about/privacy-dpa-users) for more information.
-
-### Right to Suspend or Terminate User Account
-
-#### 8.1 Termination or Suspension
-We may terminate or suspend your access to the services without notice if you violate any provision of these Terms or applicable law or regulations.
+Our site may contain links to partner sites or third parties that we do not control; these links are subject to their own terms and policies.
 
 ### Promotional Emails and Content
 
@@ -101,7 +92,7 @@ You agree to receive promotional messages from us occasionally. You can opt out 
 ### Modifications to Terms
 
 #### 10.1 Updates
-Piano010 reserves the right to update these Terms at any time. It is your responsibility to review the Terms periodically.
+piano010 reserves the right to update these Terms at any time. It is your responsibility to review the Terms periodically.
 
 #### 10.2 Acceptance
 Continued use of the website after any modifications to the Terms constitutes acceptance of the updated Terms.
