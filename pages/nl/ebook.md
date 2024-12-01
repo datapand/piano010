@@ -1,5 +1,5 @@
 ---
-title: Pianostukken voor vroeg-halfgevorderd
+title: Pianostukken voor Vroeg-halfgevorderd
 menu_title: eBook
 layout: page
 lang: nl

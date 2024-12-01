@@ -9,14 +9,15 @@ layout: compress
     display: block;
 }
 
+.pagination:last-child {
+    margin-bottom: 1.5em;
+}
+
 li.submenu a {
     font-weight: normal;
     font-decoration: underscore;
 }
 
-.nav--header ul {
-
-}
 .nav--header li {
     font-size: 1rem;
 }
@@ -90,7 +91,7 @@ span.highlighted {
     border-radius: 5px;
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
-    padding: 0 5px 0 5px;
+    padding: 2px 5px;
   }
 
 span.subtext {

@@ -1,12 +1,12 @@
 ---
-title: "Piano education and attributes"
+title: Piano education and attributes
 menu_title: Education
 layout: page
 lang: en
 permalink: /education/
 page_id: education
 feature_text: |
-  Piano education and attributes
+  Piano Education and Attributes
 feature_subtext: |
   Professional Piano Skills for All Levels
 description: |

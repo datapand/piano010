@@ -5,7 +5,7 @@ cards:
     content: |
       Repertoirekeuze voor de overgang van beginner naar halfgevorderd
       <br/><br/><br/><br/>
-      eBook-versie is beschikbaar
+      eBook-versie is beschikbaar!
     feature_image: /assets/img/early-intermediate-pad.png
     button_text: Koop nu!
     style: "background-size: contain;  margin: 25px 0 10px 0;"
@@ -15,7 +15,7 @@ cards:
     content: |
       Repertoire choice for transitioning from beginner to intermediate
       <br/><br/><br/><br/>
-      eBook Version is Available
+      e-Book version is available!
     feature_image: /assets/img/early-intermediate-pad.png
     button_text: Buy now!
     style: "background-size: contain; margin: 25px 0 10px 0;"
