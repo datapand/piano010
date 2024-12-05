@@ -18,7 +18,7 @@ function updateVideo(id) {
     var serviceUrl = "https://www.youtube.com/oembed?url=";
     var url = "http://www.youtube.com/watch?v=" + id;
     $.getJSON(serviceUrl + encodeURIComponent(url) + "&format=json", null, function (jo) {
-        document.getElementById('carousel-video').src = "https://www.youtube.com/embed/" + id;
+        document.getElementById('carousel-video').src = "https://www.youtube.com/embed/" + id + "?autoplay=1";
         document.getElementById('carousel-video').title = jo.title;
         document.getElementById('carousel-video-title').innerHTML = jo.title;
         document.getElementById('carousel-video-container').style = "";
