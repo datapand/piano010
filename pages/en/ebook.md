@@ -31,7 +31,7 @@ Enriched scores, featuring insights from an education specialist and a professio
 
 ### Video Playlist
 
-Listen to the the selection:
+Listen to the selection:
 {% include carousel.html playlist=site.data.early-intermediate.playlist %}
 
 ​[... or see playlist on YouTube](https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk) 

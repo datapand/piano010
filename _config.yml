@@ -108,7 +108,7 @@ lang: nl-NL # Set the site language
 title: "piano010" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/favicon/favicon.svg" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
-url: "https://piano010.netlify.app" # Site url, also used in jekyll-seo-tag
+url: "https://piano010.nl" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/datapand/piano010"
 email: "selenapaydin@gmail.com"
