@@ -28,7 +28,9 @@ Of je nu een student bent die vooruitgang wil boeken, of een pianodocent die waa
 Verrijkte partituren, met inzichten van een onderwijsspecialist en een professionele concertpianist, begeleiden je door theorie, techniek en expressieve nuances in noodzakelijke doses, verspreid over 23 composities. Onder deze composities bieden er 2 een alternatief, wat resulteert in 54 pagina’s aan partituren binnen een 62-pagina's tellende PDF.
 
 ## Video Reel
-{% include video.html id="videoseries?si=CbLVGkZkKn3abaKU&amp;list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk" title="Pianostukken voor Vroege Halfgevorderden" %}
+{% include carousel.html playlist=site.data.early-intermediate.playlist %}
+
+​[... of bekijk afspeellijst op YouTube](https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk) 
 
 ## Waarom is het e-Book _Pianostukken voor Vroege Halfgevorderden_ belangrijk?
 

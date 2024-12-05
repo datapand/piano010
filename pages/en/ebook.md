@@ -30,8 +30,10 @@ Enriched scores, featuring insights from an education specialist and a professio
 
 ### Video Playlist
 
-Listen to the the selection on youtube:
-{% include video.html id="videoseries?si=CbLVGkZkKn3abaKU&amp;list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk" title="Early Intermediate Piano Pieces" %}
+Listen to the the selection:
+{% include carousel.html playlist=site.data.early-intermediate.playlist %}
+
+​[... or see playlist on YouTube](https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk) 
 
 ### Why does the Early Intermediate Piano Pieces e-Book matter?
 

@@ -1,0 +1,27 @@
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css"/>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<script>
+function gettitle(id) {
+    var serviceUrl = "https://www.youtube.com/oembed?url=";
+    var url = "http://www.youtube.com/watch?v=" + id;
+    $.getJSON(serviceUrl + encodeURIComponent(url) + "&format=json", null, function (jo) {
+        document.getElementById(id+'-title').innerHTML = jo.title;
+        document.getElementById(id+'-thumbnail').src = jo.thumbnail_url;
+        });
+};
+
+function updateVideo(id) {
+    var serviceUrl = "https://www.youtube.com/oembed?url=";
+    var url = "http://www.youtube.com/watch?v=" + id;
+    $.getJSON(serviceUrl + encodeURIComponent(url) + "&format=json", null, function (jo) {
+        document.getElementById('carousel-video').src = "https://www.youtube.com/embed/" + id;
+        document.getElementById('carousel-video').title = jo.title;
+        document.getElementById('carousel-video-title').innerHTML = jo.title;
+        document.getElementById('carousel-video-container').style = "";
+        });
+};
+</script>
