@@ -10,7 +10,7 @@ feature_text: |
 feature_subtext: |
   From Hobby to Professional Level
 description: |
-  Discover Selen Apaydin's unique approach to piano pedagogy, designed to help amateur pianists achieve professional-level skills. Learn about her experience teaching advanced repertoire to non-conservatory students and her methods for overcoming technical challenges. #PianoEducation #AdvancedPianoTechnique
+  Discover Selen Apaydın's unique approach to piano pedagogy, designed to help amateur pianists achieve professional-level skills. Learn about her experience teaching advanced repertoire to non-conservatory students and her methods for overcoming technical challenges. #PianoEducation #AdvancedPianoTechnique
 ---
 
 In my opinion, it is essential that those who practice piano as a hobby achieve a high level of proficiency, comparable to those who have chosen it as their profession. I firmly believe that everyone should have access to the right information and guidance.

@@ -1,5 +1,5 @@
 ---
-title: Selen Apaydin - Piano Pedagogy and Art
+title: Selen Apaydın - Piano Pedagogy and Art
 menu_title: About
 feature_text: |
   Piano Pedagogy and Art
@@ -8,7 +8,7 @@ lang: en
 permalink: /about/
 page_id: about
 description: |
-  Explore Selen Apaydin's journey as a piano teacher, from her early experiences to her current focus on helping amateur pianists reach their potential. Learn about her unique teaching methods and approach to talent development. #PianoEducation #SelenApaydin
+  Explore Selen Apaydın's journey as a piano teacher, from her early experiences to her current focus on helping amateur pianists reach their potential. Learn about her unique teaching methods and approach to talent development. #PianoEducation #SelenApaydin
 ---
 
 ### Professorship

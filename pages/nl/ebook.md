@@ -7,7 +7,7 @@ permalink: /ebook/pianostukken/vroeg-intermediaire/
 page_id: ebook
 feature_image: /assets/img/early-intermediate-thumb.png
 description: |
-  Pianostukken voor vroeg-halfgevorderd niveau van Selen Apaydin . Dit eBook biedt 23 zorgvuldig gekozen composities, perfect voor de overgang van beginner naar halfgevorderd. Elk stuk bevat verrijkte partituren en nuttige aantekeningen. Transformeer je klassieke piano-educatie! 📖 #SelenApaydin #VroegeHalfgevorderden
+  Pianostukken voor vroeg-halfgevorderd niveau van Selen Apaydın . Dit eBook biedt 23 zorgvuldig gekozen composities, perfect voor de overgang van beginner naar halfgevorderd. Elk stuk bevat verrijkte partituren en nuttige aantekeningen. Transformeer je klassieke piano-educatie! 📖 #SelenApaydin #VroegeHalfgevorderden
 carousels: true
 ---
 
