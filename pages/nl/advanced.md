@@ -20,7 +20,7 @@ Ik geloof stellig dat iedereen toegang moet hebben tot de juiste informatie en b
 
 ​​Ambitieuze en getalenteerde studenten volgen een universitaire of masteropleiding aan de conservatoria nadat ze de aanpak, het kunstenaarschap en de discipline hebben begrepen om professionele pianisten te worden. Door mijn superieuren een natuurlijk talent voor lesgeven genoemd, zelfs als jonge pianodocent, heb ik die jonge pianisten geholpen auditie te doen voor die instituten. Je kunt enkele getuigenissen vinden op mijn artiestenpagina. 
 
-{% include button.html text="Tutoring testimonials" link="https://www.selenapaydin.com/tutoring" %} 
+{% include button.html text="Tutoring testimonials" link="https://selenapaydin.com/tutoring#testimonials" %} 
 
 Mijn gevorderde klassieke pianostudenten heeft Liszt's 'La Campanella' in hun repertoire opgenomen, terwijl andere studenten hebben laten zien dat ze in staat zijn om een gevarieerd scala aan composities aan te pakken, waaronder werken van Beethoven, Mozart, Haydn Sonates, Bach fuga's en inventies, Chopin Ballades, Nocturnes, Valsen, Mazurka's en Etudes, evenals de complexe composities van Ibert, Debussy, Granados, Schubert, Schumann, Mendelssohn, onder vele anderen.
 

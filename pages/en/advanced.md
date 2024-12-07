@@ -17,7 +17,7 @@ In my opinion, it is essential that those who practice piano as a hobby achieve 
 
 Ambitious and talented students follow a university or master's level path at the conservatories after understanding the approach, artistry, and discipline to become professional pianists. Called a natural talent for teaching, even as a young piano teacher by my superiors, I have helped those audition for those institutes. You can find some testimonials on my artist web page. 
 
-{% include button.html text="Tutoring testimonials" link="https://www.selenapaydin.com/tutoring" %} 
+{% include button.html text="Tutoring testimonials" link="https://selenapaydin.com/tutoring#testimonials" %} 
 
 My advanced classical piano students has included Liszt's 'La Campanella' in their repertoire, while other students have demonstrated their ability to tackle a diverse range of compositions, including works by Beethoven, Mozart, Haydn Sonatas, Bach fugues and inventions, Chopin Ballades, Nocturnes, Waltzes, Mazurkas, and Etudes, as well as the complex compositions of Ibert, Debussy, Granados, Schubert, Schumann, Mendelssohn, among many others.
 
