@@ -1,5 +1,5 @@
 ---
-title: Repertoire
+title: Patterns and Technical Movements
 categories:
 - Intermediate & Advanced
 - Repertoire
@@ -9,8 +9,7 @@ feature_text: |
   Exploring Patterns and Technical Movements
 feature_image: https://picsum.photos/2560/600?image=733
 image: "https://picsum.photos/2560/600?image=733"
-permalink: /repertoire/
-page_id: repertoire
+page_id: pattern
 lang: en
 ---
 

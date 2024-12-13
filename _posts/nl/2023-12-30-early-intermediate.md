@@ -10,7 +10,7 @@ feature_text: |
 feature_image: https://picsum.photos/2560/600?image=733
 image: "https://picsum.photos/2560/600?image=733"
 lang: nl
-page_id: stuck
+page_id: repertoire
 ---
 
 ### Wat kun je ontdekken tussen het beginners- en intermediaire niveau?
