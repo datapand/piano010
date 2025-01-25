@@ -4,7 +4,7 @@ layout: page
 featured-img: shane-rounce-205187
 lang: nl
 permalink: privacybeleid
-page_id: privacy-policy
+page_id: privacybeleid
 description: |
   Dit Privacybeleid beschrijft hoe www.piano010.nl informatie verzamelt, gebruikt, beheert en openbaar maakt van gebruikers van de website. We zijn toegewijd aan het beschermen van de privacy van onze gebruikers en het waarborgen van de veiligheid van hun persoonlijke informatie.
 indexing: false
