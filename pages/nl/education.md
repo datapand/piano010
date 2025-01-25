@@ -3,7 +3,7 @@ title: "Professionele Pianovaardigheden: Alle Niveaus"
 menu_title: Onderwijs
 layout: page
 lang: nl
-permalink: /piano/onderwijs/
+permalink: piano/onderwijs
 page_id: education
 feature_text: |
   Piano Onderwijs en Attributen

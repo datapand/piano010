@@ -3,7 +3,7 @@ title: Privacy Policy
 layout: page  
 featured-img: shane-rounce-205187  
 lang: en  
-permalink: /privacy-policy/  
+permalink: privacy-policy
 page_id: privacy-policy  
 description: |  
   This Privacy Policy outlines how www.piano010.nl collects, uses, maintains, and discloses information collected from users of the website. We are committed to protecting the privacy of our users and ensuring the security of their personal information.  

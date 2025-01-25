@@ -11,7 +11,7 @@ feature_image: https://picsum.photos/2560/600?image=733
 image: "https://picsum.photos/2560/600?image=733"
 lang: en
 page_id: repertoire
-permalink: /repertoire/
+permalink: repertoire
 ---
 
 ## What should you explore between the beginners and intermediate level?

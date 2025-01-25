@@ -2,7 +2,7 @@
 title: Early Intermediate Pieces Video Playlist
 layout: watchpage
 lang: nl
-permalink: /video-playlist/pianostukken/vroeg-intermediaire/
+permalink: video-playlist/pianostukken/vroeg-intermediaire
 page_id: ebook-playlist
 description: |
   Videolijst ter begeleiding van Early Intermediate Piano Pieces door Selen Apaydin. 23 zorgvuldig geselecteerde composities voor studenten en docenten die de overgang maken van beginners- naar intermediate-niveau.
