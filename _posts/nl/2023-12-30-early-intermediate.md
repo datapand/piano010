@@ -13,13 +13,13 @@ lang: nl
 page_id: repertoire
 ---
 
-### Wat kun je ontdekken tussen het beginners- en intermediaire niveau?
+## Wat kun je ontdekken tussen het beginners- en intermediaire niveau?
 
 Ik maak een reeks video's op mijn YouTube-kanaal om degenen te helpen die behoefte hebben aan repertoire voor het vroege intermediaire pianoniveau.
 
 ​[Bekijk afspeellijst op YouTube](https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk) 
 
-### Vastgelopen?
+## Vastgelopen?
 
 _“Ik speel al jaren piano, maar ik kom niet meer vooruit. Waarom blijf ik vastzitten? Hoe kan ik verbeteren?”_
 
@@ -29,7 +29,9 @@ Ze raken vaak gefrustreerd wanneer ze ontdekken dat ze hun techniek moeten corri
 
 > **Het kost geduld om jaren van gemiste theoretische of stijlinzichten in te halen door het niveau van de stukken te verlagen en de juiste technieken te leren.**
 
-### Ik presenteer de stukken tussen “beginner” en “intermediair niveau” als opties zodat studenten verdere moeilijkheden kunnen voorkomen.
+## Curatie
+
+_Ik presenteer de stukken tussen “beginner” en “intermediair niveau” als opties zodat studenten verdere moeilijkheden kunnen voorkomen._
 
 Dit repertoire wordt helaas door veel educatieve programma's, boekenreeksen of online platforms niet voldoende opgenomen. Veel lijsten die als repertoire op dit niveau worden gepresenteerd, zijn in werkelijkheid van een hoger niveau; Intermediair. Tussen de ontbrekende en verkeerde informatie wilde ik een lijst maken waar ook pianodocenten van kunnen profiteren.
 

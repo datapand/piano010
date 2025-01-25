@@ -24,7 +24,7 @@ In a typical training context, approximately 40 lessons per school year are need
 However, the unique material I have developed can teach these fundamentals in just 8 to 12 lessons, and it also covers topics from second-year books, equivalent to an additional 40 lessons.
 
 
-### The Principles
+## The Principles
 
 Learning to play the piano can be quite a task. It takes time and patience, and it's not always clear where to start.
 
@@ -35,7 +35,7 @@ Throughout my 21 years as a teacher, I have dedicated all my time to helping peo
 I strongly believe that with the right guidance, people can achieve higher goals, and I have demonstrated many times that amateurs can acquire skills comparable to those of professionals.
 
 
-### The Methodology
+## The Methodology
 
 After using the most frequently used piano teaching books on the market in my lessons for nine years (30 to 40 students weekly) and eight years prior, I realized new material has to be developed. The methodical books that traditional teachers in many conservatories use and advise young teachers to use are pretty old if you look at their publishing years.
 

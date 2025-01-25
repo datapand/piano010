@@ -11,7 +11,7 @@ description: |
   Ontdek Selen Apaydin's reis als pianodocent, van haar vroege ervaringen tot haar huidige focus op het helpen van amateurpianisten om hun potentieel te bereiken. Leer meer over haar unieke onderwijsmethoden en benadering van talentontwikkeling. #PianoOnderwijs #SelenApaydin
 ---
 
-### Docentschap
+## Docentschap
 
 Het les geven is heel anders dan op podium staan. Lees verder voor het docentprofiel en bekijk het artistiek profiel met de externe links onderaan de pagina.
 
@@ -26,7 +26,7 @@ Toen ik een jonge kandidaat-docent was, vertelden mijn leraren pedagogiek me dat
 
 ​Ook gaf ik les aan jonge pianisten tijdens mijn bachelorfase. Op zoveel niveaus is dat soort lesgeven eenvoudiger omdat de studenten al toegewijd zijn aan klassieke muziek en de discipline hebben om dagelijks vele uren te oefenen.
 
-### Talent
+## Talent
 
 Natuurlijk ben ik studenten tegengekomen die zich op verschillende conservatoria hebben voorbereid op audities voor de bachelor. Maar toch het inspireren van jonge professionals en hen opleiden tot pianist een zeer nobele taak is, ben ik er meer trots op om amateurs te helpen hun potentieel te bereiken.
 

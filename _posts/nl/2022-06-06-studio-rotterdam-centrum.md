@@ -13,8 +13,17 @@ page_id: studio
 ---
 
 
-### Pianos
+## Experiencing different pianos
 
+## Pianos
+
+### Hybrid Electric Piano: Kawaii
+
+### Electric Piano: Kawaii
+
+### Acoustic Standing piano: Yamaha
+
+## Location
 
 ### Locatie
 

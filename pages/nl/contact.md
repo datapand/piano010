@@ -15,7 +15,7 @@ indexing: false
 sitemap: false
 ---
 
-Neem contact op met piano010 om vandaag nog uw pianolessen te plannen! 
+Neem contact op met piano010 om uw pianolessen te plannen! 
 
 ### Contact Form
 

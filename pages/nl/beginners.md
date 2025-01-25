@@ -22,14 +22,14 @@ In een typische trainingscontext zijn ongeveer 40 lessen per schooljaar nodig om
 Echter, het unieke materiaal dat ik heb ontwikkeld kan deze fundamenten in slechts 8 tot 12 lessen onderwijzen, en het behandelt ook onderwerpen uit boeken van het tweede jaar, wat overeenkomt met een aanvullende 40 lessen.
 
 
-### De Principes
+## De Principes
 
 Piano leren spelen kan een hele klus zijn. Het kost tijd en geduld, en het is niet altijd duidelijk hoe je moet beginnen.
 Met het unieke lesmateriaal dat ik sinds 2019 heb ontwikkeld, een op onderzoek-gebaseerde methode voor beginners, leer je snel de basis en doe je de juiste vaardigheden op om later door te bouwen naar een gevorderd niveau.
 
 Piano spelen is een vaardigheid die niet alleen leuk is, maar ook zeer de moeite waard. Het kan worden beheerst door de juiste gids en veel oefening. De klassieke piano spelen begint met het leren lezen van muziek op bladmuziek. Als je eenmaal goed genoeg muziek kunt lezen om te begrijpen welke noten je moet spelen, kun je je pianospel snel verbeteren.
 
-### Methodiek
+## Methodiek
 
 Na negen jaar (30 tot 40 studenten per week) en acht jaar daarvoor de meest gebruikte piano lesboeken op de markt in mijn lessen te hebben gebruikt, realiseerde ik me dat er nieuw materiaal moest worden ontwikkeld. De methodische boeken die traditionele docenten in veel conservatoria gebruiken en jonge docenten adviseren te gebruiken, zijn behoorlijk oud als je kijkt naar hun publicatiejaren. De wereld is veranderd en de methoden moeten worden bijgewerkt. Helaas zijn er in deze sector maar weinig mensen die hun kijk op de onderwijsstijlen van de moderne wereld durven en durven verbreden.
 ​

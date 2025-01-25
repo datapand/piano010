@@ -12,10 +12,16 @@ lang: en
 page_id: studio
 ---
 
+## Experiencing different pianos
 
-### Pianos
+## Pianos
 
+### Hybrid Electric Piano: Kawaii
 
-### Location
+### Electric Piano: Kawaii
+
+### Acoustic Standing piano: Yamaha
+
+## Location
 
 {% include g-map.html %}

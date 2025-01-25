@@ -14,13 +14,13 @@ page_id: repertoire
 permalink: /repertoire/
 ---
 
-### What should you explore between the beginners and intermediate level?
+## What should you explore between the beginners and intermediate level?
 
 ​I create a series of videos on my YouTube channel to help those in need of early intermediate piano repertoire.
 
 ​[See playlist on YouTube](https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk) 
 
-### Stuck?
+## Stuck?
 
 _“I have been playing the piano for years, but I have not been able to progress for a while. Why am I stuck? How can I improve?”_
 
@@ -30,7 +30,9 @@ They often become frustrated when they learn that they need to correct their tec
 
 > **It takes patience to make up for years of missing theoretical or style knowledge by lowering the level of pieces and learning the proper techniques.**
 
-### I present the pieces between “beginner” and “intermediate level” as options so that students can prevent further difficulties.
+## Curation
+
+_I present the pieces between “beginner” and “intermediate level” as options so that students can prevent further difficulties._
 
 This repertoire is, unfortunately, under-listed by many educational programs, book series, or online platforms. Many top-up lists, which seem to be repertoire at this level, are, in fact, higher level; Intermediate. Among the missing and wrong information, I wanted to make a list that piano teachers can also benefit from.
 

@@ -26,9 +26,9 @@ Mijn gevorderde klassieke pianostudenten heeft Liszt's 'La Campanella' in hun re
 
 Interessant is dat geen van deze studenten aan het conservatorium studeert; ze hebben diverse beroepen of zijn ingeschreven in verschillende universitaire opleidingen.
 
-### Hobby & Professioneel
+## Hobby & Professioneel
 
-###### Beide werelden van piano spelen
+### Beide werelden van piano spelen
 
 Beide werelden goed kennen: de professionals op hoog niveau en de amateur studenten!
 

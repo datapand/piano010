@@ -24,9 +24,9 @@ My advanced classical piano students has included Liszt's 'La Campanella' in the
 Interestingly, none of these students are studying at the conservatory; they have various professions or are enrolled in different university programs.
 
 
-### Hobby & Professional
+## Hobby & Professional
 
-##### BOTH WORLDS OF PIANO PLAYING
+### BOTH WORLDS OF PIANO PLAYING
 
 Knowing well both worlds: the high-level professionals and amateur students!
 
