@@ -25,7 +25,7 @@ This Privacy Policy outlines how www.piano010.nl collects, uses, maintains, and 
 - piano010 provides piano education services and digital products aimed at enhancing piano education.
 
 **Services and Offers:**  
-[www.piano010.nl](https://www.piano010.nl) offers information on piano education services and provides digital products aimed at enhancing piano education.
+[www.piano010.nl](http://www.piano010.nl) offers information on piano education services and provides digital products aimed at enhancing piano education.
 
 ### 2. Information Collection
 
