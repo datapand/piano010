@@ -3,7 +3,7 @@ title: Geavanceerde Pianopedagogie
 menu_title: Gevorderden
 layout: page
 lang: nl
-permalink: pianoles/advanced
+permalink: /pianoles/advanced/
 page_id: advanced
 description: |
 feature_text: |

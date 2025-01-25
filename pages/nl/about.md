@@ -5,7 +5,7 @@ feature_text: |
   Piano Pedagogie en Kunst
 layout: page
 lang: nl
-permalink: over-mij
+permalink: /over-mij/
 page_id: about
 description: |
   Ontdek Selen Apaydin's reis als pianodocent, van haar vroege ervaringen tot haar huidige focus op het helpen van amateurpianisten om hun potentieel te bereiken. Leer meer over haar unieke onderwijsmethoden en benadering van talentontwikkeling. #PianoOnderwijs #SelenApaydin

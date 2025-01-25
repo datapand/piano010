@@ -3,7 +3,7 @@ title: Early Intermediate Piano Pieces
 menu_title: eBook
 layout: page
 lang: en
-permalink: early-intermediate
+permalink: /early-intermediate/
 feature_image: /assets/img/early-intermediate-thumb.png
 page_id: ebook
 feature_text: Early Intermediate Piano Pieces

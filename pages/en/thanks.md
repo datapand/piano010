@@ -5,7 +5,7 @@ feature_text: |
   Thanks for getting in touch!
 layout: page
 lang: en
-permalink: thanks
+permalink: /thanks/
 page_id: thanks
 indexing: false
 sitemap: false
