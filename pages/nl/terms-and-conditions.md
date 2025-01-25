@@ -2,7 +2,7 @@
 title: Algemene Voorwaarden
 layout: page
 lang: nl
-permalink: /terms-and-conditions/
+permalink: terms-and-conditions
 page_id: terms-and-conditions
 description: |
   Deze algemene voorwaarden gelden voor het wereldwijde gebruik van www.piano010.nl. Ze beschrijven hoe u onze website en diensten kunt gebruiken. Door de site te bezoeken of te gebruiken, bevestigt u dat u deze voorwaarden hebt gelezen, begrepen en ermee akkoord gaat.

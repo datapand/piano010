@@ -3,7 +3,7 @@ title: Advanced Piano Pedagogy
 menu_title: Advanced
 layout: page
 lang: en
-permalink: /piano-lesson/advanced/
+permalink: piano-lesson/advanced
 page_id: advanced
 feature_text: |
   Advanced Piano Pedagogy
