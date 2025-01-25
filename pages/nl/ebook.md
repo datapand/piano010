@@ -28,10 +28,10 @@ Of je nu een student bent die vooruitgang wil boeken, of een pianodocent die waa
 
 Verrijkte partituren, met inzichten van een onderwijsspecialist en een professionele concertpianist, begeleiden je door theorie, techniek en expressieve nuances in noodzakelijke doses, verspreid over 23 composities. Onder deze composities bieden er 2 een alternatief, wat resulteert in 54 pagina’s aan partituren binnen een 62-pagina's tellende PDF.
 
-## Video Reel
-{% include carousel.html playlist=site.data.early-intermediate.playlist %}
+## Video Playlist
+{% include button.html text="Naar watch page" page_id="ebook-playlist" %} {% include button.html text="Naar YouTube playlist" link="https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk" %}
 
-​[... of bekijk afspeellijst op YouTube](https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk) 
+{% include carousel.html playlist=site.data.early-intermediate.playlist %}
 
 ## Waarom is het e-Book _Pianostukken voor Vroege Halfgevorderden_ belangrijk?
 
@@ -47,4 +47,4 @@ Elke compositie is herschreven en bewerkt met een scherp oog voor visuele helder
 
 > Voor zowel pianodocenten als studenten is dit boek bedoeld als ondersteuning, om een soepele overgang te faciliteren van beginnend naar halfgevorderd niveau in klassieke pianospelen.
 
-{% include button.html text="Koop Nu" link="https://piano010.tentary.com/p/pu3noz/checkout" %} {% include button.html text="Lees Meer" link="/repertoire/vroege-intermediair/early-intermediate" %}
+{% include button.html text="Koop Nu" link="https://piano010.tentary.com/p/pu3noz/checkout" %} {% include button.html text="Lees Meer" link="/repertoire/vroege-intermediair/early-intermediate" %} {% include button.html text="Playlist Early Intermediate Piano Pieces" page_id="ebook-playlist" %} 

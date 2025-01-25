@@ -198,6 +198,12 @@ textarea#message {
     // border: 2px solid green;
   }
 
+#watch-div {
+    width: calc(70vw - 20px);
+    margin-left: calc(-40vw + 50% + 10px);
+    // border: 2px solid green;
+}
+
 .columns {
     .button {
         margin: 0.5rem !important;

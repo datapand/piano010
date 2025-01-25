@@ -11,7 +11,7 @@ indexing: false
 sitemap: false  
 ---
 
-<a href="javascript:history.back()">Go Back</a>  
+<a href="javascript:history.back()">Go Back</a>
 
 <a href="#" id="open_preferences_center">Update cookies preferences</a>  
 

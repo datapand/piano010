@@ -8,7 +8,7 @@ feature_image: /assets/img/early-intermediate-thumb.png
 page_id: ebook
 feature_text: Early Intermediate Piano Pieces
 description: |
-  Explore Early Intermediate Piano Pieces by Selen Apaydin. This eBook features 23 curated compositions for students and teachers transitioning from beginner to intermediate levels. Each piece includes enriched scores and helpful annotations. Elevate your classical piano skills today! 📖 #SelenApaydin #EarlyIntermediate
+  Explore Early Intermediate Piano Pieces by Selen Apaydin. This eBook features 23 curated compositions for students and teachers transitioning from beginner to intermediate levels. Each piece includes enriched scores and helpful annotations. 📖 #SelenApaydin #EarlyIntermediate
 carousels: true
 ---
 
@@ -31,10 +31,10 @@ Enriched scores, featuring insights from an education specialist and a professio
 
 ## Video Playlist
 
-Listen to the selection:
+{% include button.html text="Open in seperate window" page_id="ebook-playlist" %} {% include button.html text="See playlist on YouTube" link="https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk" %}
+
 {% include carousel.html playlist=site.data.early-intermediate.playlist %}
 
-​[... or see playlist on YouTube](https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk) 
 
 ## Why does the Early Intermediate Piano Pieces e-Book matter?
 
@@ -50,4 +50,4 @@ Each composition has been rewritten and edited with a keen eye on enhancing visu
 
 > For both piano teachers and students, this book aims to provide assistance, facilitating a smooth transition from beginner to intermediate classical piano playing.
 
-{% include button.html text="Buy Now" link="https://piano010.tentary.com/p/pu3noz/checkout" %} {% include button.html text="Read More" link="/en/repertoire/" %}
+{% include button.html text="Buy Now!" link="https://piano010.tentary.com/p/pu3noz/checkout" %} {% include button.html text="Read More on Repertoire Curation" link="/en/repertoire/" %} {% include button.html text="Watch the videos" page_id="ebook-playlist" %}

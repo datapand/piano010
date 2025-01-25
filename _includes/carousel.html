@@ -1,9 +1,11 @@
-<section>
-    <h6 id="carousel-video-title"></h6><br />
-    <div id="carousel-video-container" class="video" style="display: none;">
+<section id="watch-div">
+    <div id="carousel-video-container" class="video">
         <iframe id="carousel-video" src="" frameborder="0" title="" width="100%" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
-</section>
+    <h6 id="carousel-video-title"></h6>
+    <small class="video-description" id="carousel-video-description"></small><br />
+    <br />
+  </section>
 <section id="wide-div">
     <div id="carousel">
       {% for item in include.playlist %}

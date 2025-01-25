@@ -1,3 +1,3 @@
 <div><a onclick="updateVideo('{{ include.id }}')"><img id="{{ include.id }}-thumbnail"></a></div>
 <small id='{{ include.id }}-title'></small>
-<iframe onload="gettitle('{{ include.id }}');" style="display: none;"></iframe>
+<iframe onload="fetchVideoDetails('{{ include.id }}');" style="display: none;"></iframe>

@@ -1,27 +1,84 @@
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
-<link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+<link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css" />
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
 <script>
-function gettitle(id) {
-    var serviceUrl = "https://www.youtube.com/oembed?url=";
-    var url = "http://www.youtube.com/watch?v=" + id;
-    $.getJSON(serviceUrl + encodeURIComponent(url) + "&format=json", null, function (jo) {
-        document.getElementById(id+'-title').innerHTML = jo.title;
-        document.getElementById(id+'-thumbnail').src = jo.thumbnail_url;
-        });
-};
 
-function updateVideo(id) {
-    var serviceUrl = "https://www.youtube.com/oembed?url=";
-    var url = "http://www.youtube.com/watch?v=" + id;
-    $.getJSON(serviceUrl + encodeURIComponent(url) + "&format=json", null, function (jo) {
-        document.getElementById('carousel-video').src = "https://www.youtube.com/embed/" + id + "?autoplay=1";
-        document.getElementById('carousel-video').title = jo.title;
-        document.getElementById('carousel-video-title').innerHTML = jo.title;
-        document.getElementById('carousel-video-container').style = "";
+    const videos = [];
+    const YOUTUBE_API_KEY = "AIzaSyC8QAvz11aOCEFQebQBITBH5lJ1DvZn-Os";
+    const YOUTUBE_API_URL = "https://www.googleapis.com/youtube/v3/videos";
+
+    async function fetchVideoDetails(videoId) {
+        const existingVideo = videos.find((video) => video.id === videoId);
+        if (existingVideo) {
+            return existingVideo;
+        }
+
+        const response = await fetch(
+            `${YOUTUBE_API_URL}?id=${videoId}&key=${YOUTUBE_API_KEY}&part=snippet,contentDetails,statistics`
+        );
+        const data = await response.json();
+        if (data.items.length > 0) {
+            const video = data.items[0];
+            console.log(video);
+            document.getElementById(videoId + '-title').innerHTML = video.snippet.title;
+            document.getElementById(videoId + '-thumbnail').src = video.snippet.thumbnails.high.url;
+            let videoDetails = {
+                id: video.id,
+                title: video.snippet.title,
+                description: video.snippet.description,
+                thumbnail: video.snippet.thumbnails.high.url,
+                uploadDate: video.snippet.publishedAt,
+                views: video.statistics.viewCount,
+                likes: video.statistics.likeCount || "N/A",
+            };
+            videos.push(videoDetails);
+            return videoDetails;
+        }
+        return null;
+    }
+
+    function updateVideo(id, autoplay = true) {
+        const videoDetails = videos.find((video) => video.id === id);
+        if (videoDetails) {
+            const autoplayParam = autoplay ? "?autoplay=1" : "";
+            document.getElementById('carousel-video').src = "https://www.youtube.com/embed/" + id + autoplayParam;
+            document.getElementById('carousel-video').title = videoDetails.title;
+            document.getElementById('carousel-video-title').innerHTML = videoDetails.title;
+            document.getElementById('carousel-video-description').innerHTML = videoDetails.description;
+            return;
+        }
+    };
+
+    function updateAllJsonLd() {
+        videos.forEach((video) => {
+            const scriptId = `json-ld-${video.id}`;
+            let jsonLdScript = document.getElementById(scriptId);
+
+            if (!jsonLdScript) {
+                jsonLdScript = document.createElement("script");
+                jsonLdScript.type = "application/ld+json";
+                jsonLdScript.id = scriptId;
+                document.head.appendChild(jsonLdScript);
+            }
+
+            jsonLdScript.textContent = JSON.stringify({
+                "@context": "http://schema.org",
+                "@type": "VideoObject",
+                name: video.title,
+                description: video.description,
+                thumbnailUrl: video.thumbnail,
+                uploadDate: video.uploadDate,
+                embedUrl: `https://www.youtube.com/embed/${video.id}`,
+                contentUrl: `https://www.youtube.com/watch?v=${video.id}`,
+            });
         });
-};
+    }
+
+    window.onload = function () {
+        updateAllJsonLd();
+        updateVideo(videos[0].id, autoplay = false);
+    };
 </script>
