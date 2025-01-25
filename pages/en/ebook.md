@@ -21,7 +21,7 @@ carousels: true
   </section>
 </section>
 
-### Guidance for piano teachers and students
+## Guidance for piano teachers and students
 
 Whether you're a student aiming for progression or a piano teacher seeking valuable resources, "The Early Intermediate Piano Pieces" PDF eBook is your resolute companion. 
 
@@ -29,14 +29,14 @@ Whether you're a student aiming for progression or a piano teacher seeking valua
 
 Enriched scores, featuring insights from an education specialist and a professional concert pianist, guide you through theory, technique, and expressive nuances in necessary doses across 23 compositions. Among these, 2 compositions offer 2 alternatives, totaling 54 pages of scores within a 62-page PDF format.
 
-### Video Playlist
+## Video Playlist
 
 Listen to the selection:
 {% include carousel.html playlist=site.data.early-intermediate.playlist %}
 
 ​[... or see playlist on YouTube](https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk) 
 
-### Why does the Early Intermediate Piano Pieces e-Book matter?
+## Why does the Early Intermediate Piano Pieces e-Book matter?
 
 As pianists progress, they often encounter a pivotal yet challenging transitional phase. This book curates a selection of meticulously chosen pieces, strategically crafted to practice skills necessary for overcoming obstacles commonly faced on the path toward higher-level piano playing and prevent the problems caused by prematurely transitioning to what is often mistakenly known as the 'intermediate' level.
 
