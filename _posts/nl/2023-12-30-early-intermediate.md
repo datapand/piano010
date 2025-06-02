@@ -13,28 +13,12 @@ lang: nl
 page_id: repertoire
 ---
 
-## Wat kun je ontdekken tussen het beginners- en intermediaire niveau?
+_Ik presenteer de stukken tussen “beginner” en “tussenniveau” als opties, zodat studenten verdere moeilijkheden kunnen voorkomen._
 
-Ik maak een reeks video's op mijn YouTube-kanaal om degenen te helpen die behoefte hebben aan repertoire voor het vroege intermediaire pianoniveau.
+Dit repertoire wordt helaas onderbelicht door veel educatieve programma'sboekenreeksen of online platforms onderbelicht. Zoals veel gecertificeerde en ervaren klassieke pianodocenten zullen beamen, zijn de meeste lijsten die beweren repertoire op dit niveau aan te bieden eigenlijk meer geschikt voor halfgevorderden. In het licht van de ontbrekende en onjuiste informatie wilde ik een boek maken waar pianodocenten ook hun voordeel mee kunnen doen.
 
-​[Bekijk afspeellijst op YouTube](https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk) 
-
-## Vastgelopen?
-
-_“Ik speel al jaren piano, maar ik kom niet meer vooruit. Waarom blijf ik vastzitten? Hoe kan ik verbeteren?”_
-
-Deze studenten kwamen naar mijn lessen zonder zich te realiseren dat ze bij het overstappen naar intermediaire stukken tegen technische problemen aanliepen. Ze hadden al jaren les en genoten van het spelen van piano. Maar moeilijkheden leidden tot een gebrek aan motivatie.
-
-Ze raken vaak gefrustreerd wanneer ze ontdekken dat ze hun techniek moeten corrigeren of niet weten wat ze moeten doen.
-
-> **Het kost geduld om jaren van gemiste theoretische of stijlinzichten in te halen door het niveau van de stukken te verlagen en de juiste technieken te leren.**
-
-## Curatie
-
-_Ik presenteer de stukken tussen “beginner” en “intermediair niveau” als opties zodat studenten verdere moeilijkheden kunnen voorkomen._
-
-Dit repertoire wordt helaas door veel educatieve programma's, boekenreeksen of online platforms niet voldoende opgenomen. Veel lijsten die als repertoire op dit niveau worden gepresenteerd, zijn in werkelijkheid van een hoger niveau; Intermediair. Tussen de ontbrekende en verkeerde informatie wilde ik een lijst maken waar ook pianodocenten van kunnen profiteren.
-
-Omdat pianodocenten die zelf geen pianisten zijn of weinig tijd hebben voor onderzoek, vaak lessen geven met boeken of populaire liedjes die voor hen beschikbaar zijn. Ik hoop dat deze lijst hen en hun studenten ook kan helpen.
+Pianoleraren die geen echte pianist zijn (veel pianoleraren zijn geen geschoolde pianisten; het zijn vaak andere instrumentalisten of zangers die piano kunnen spelen) of degenen die niet veel tijd hebben om repertoire te onderzoeken, geven vaak lessen waarbij ze alleen gebruik maken van de boeken of populaire liedjes die voor hen beschikbaar zijn. Ik hoop dat dit boek zowel hen als hun leerlingen kan helpen, omdat het instructies bevat over wat ze moeten onderwijzen en leren.
 
 {% include button.html text="e-Book Vroeg Intermediair" page_id="ebook" %} {% include button.html text="Koop Nu" link="https://piano010.tentary.com/p/pu3noz/checkout" %}
+
+​[Bekijk afspeellijst op YouTube](https://www.youtube.com/playlist?list=PLoEVTzF1FSNF3wVZ9sMMEoSVKzxYDL5Zk)

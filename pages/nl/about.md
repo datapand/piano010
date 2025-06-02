@@ -11,25 +11,31 @@ description: |
   Ontdek Selen Apaydin's reis als pianodocent, van haar vroege ervaringen tot haar huidige focus op het helpen van amateurpianisten om hun potentieel te bereiken. Leer meer over haar unieke onderwijsmethoden en benadering van talentontwikkeling. #PianoOnderwijs #SelenApaydin
 ---
 
-Opgroeien in een gezin van ervaren muzikanten en docenten vormde vanaf jonge leeftijd een zeldzame en hoogwaardige basis voor mijn ontwikkeling als docent. Al vroeg erkenden gerespecteerde conservatoriumprofessoren niet alleen mijn capaciteiten als pianist, maar ook mijn uitzonderlijke aanleg voor lesgeven. Feedback die ze persoonlijk met mij deelden en schriftelijk bevestigden toen ik jongere pianostudenten assisteerde bij de voorbereiding op piano-examens op de middelbare school en op bachelorniveau. Ik heb deze opmerkingen serieus genomen en heb dat vertrouwen sindsdien met mij meegedragen.
+Opgroeien in een gezin van ervaren muzikanten en docenten vormde vanaf jonge leeftijd een zeldzame en hoogwaardige basis voor mijn ontwikkeling als docent. Al vroeg erkenden gerespecteerde conservatoriumprofessoren niet alleen mijn capaciteiten als pianist, maar ook mijn uitzonderlijke aanleg voor lesgeven-feedback die zij mij persoonlijk gaven en schriftelijk bevestigden toen ik jongere pianostudenten hielp bij de voorbereiding op piano-examens op middelbare school- en bachelorniveau aan het conservatorium. Ik heb deze opmerkingen serieus genomen en heb dat vertrouwen sindsdien met mij meegedragen.
 
-Ik heb 22 jaar als pianoleraar in de particuliere sector gewerkt, waarbij ik een passie heb ontwikkeld voor het bevorderen van studenten van hobbyisten tot studenten die zich bezighouden met virtuoze werken zoals die van Liszt. De bel. Complex repertoire van Chopin, Beethoven en anderen is een kenmerk geworden van de prestaties van mijn studenten. Ik onderneem onconventionele stappen om elke student te helpen zijn hoogste potentieel te bereiken, waarbij ik opzettelijk verder ga dan de traditionele lesmethoden voor degenen die echt ambitieus zijn. De resultaten waren steeds opmerkelijk.
+Ik heb 22 jaar als pianoleraar in de particuliere sector gewerkt, waarbij ik een passie heb ontwikkeld voor het bevorderen van studenten van hobbyisten tot studenten die zich bezighouden met virtuoze werken zoals Liszts La Campanella. Complex repertoire van Chopin, Beethoven en anderen is een kenmerk geworden van de prestaties van mijn studenten. Ik onderneem onconventionele stappen om elke student te helpen zijn hoogste potentieel te bereiken, waarbij ik opzettelijk verder ga dan de traditionele lesmethoden voor degenen die echt ambitieus zijn. De resultaten zijn steeds opmerkelijk geweest.
 
+## Lectoraat
 
-## Docentschap
+Lesgeven en optreden zijn verschillende maar even waardevolle aspecten van de carrière van een muzikant. Veel actieve artiesten onderschatten soms de kunst van het lesgeven en beschouwen het als een secundaire bezigheid voor degenen die niet vaak op het podium staan. Dit is een misvatting: zelfs de grootste pianisten besteden tijd aan lesgeven. Het verschil is dat je selectiever wordt over wie je lesgeeft, en op zoek gaat naar studenten die echt betrokken en gepassioneerd zijn.
 
-Het les geven is heel anders dan op podium staan. Lees verder voor het docentprofiel en bekijk het artistiek profiel met de externe links onderaan de pagina.
+Bekijk het onderstaande lerarenprofiel voor meer informatie over deze benadering van pianoonderwijs. Voor details over artistieke prestaties en optredens, zie de externe links onderaan de pagina.
 
 ### Mijn avontuur als docent
-Ik heb sinds 21 als pianodocent gewerkt in diverse steden, zoals Rotterdam, Dordrecht, Arnhem, Haarlem, en ook online in het Verenigd Koninkrijk en Turkije.
 
-​Ik hou van delen, observeren en zien van uitstekende resultaten en inspireren voor maximale ontwikkeling.
+Ik werk sinds mijn 21e als gediplomeerd pianoleraar, hoewel ik op mijn 18e begon met lesgeven als stagiaire. Mijn ervaring strekt zich uit over verschillende steden, waaronder Rotterdam, Dordrecht, Arnhem, Haarlem, maar ook online in het Verenigd Koninkrijk en Turkije.
 
-Toen ik een jonge kandidaat-docent was, vertelden mijn leraren pedagogiek me dat ik talent had voor spelen en lesgeven. Ik had mijn eerste ervaring met bijles toen ik 14 was, waarbij ik een vriendin hielp die drie jaar jonger was dan ik om de herexamens te halen waardoor ze op koers kon blijven. Ze is nu een professionele leraar en pianist.
+Mijn eerste bijleservaring was op 14-jarige leeftijd, toen ik een vriendin die drie jaar jonger was dan ik hielp met het behalen van haar herexamens, waardoor ze op koers kon blijven. Ze is nu een professionele docent en pianiste.
 
-​Onze school om klassieke piano te leren was een zeer streng conservatorium. Je zou op zeer jonge leeftijd beginnen, in tegenstelling tot muziekscholen of conservatoria in NL, maar meer zoals de scholen in Rusland. We hebben vanaf 11 jaar fulltime getraind en daarvoor parttime. Dit soort scholing betekende dat we een hele dag op school hadden, luisterend naar elkaars oefening, en onze klas zou zo druk zijn als een orkest. Dus ik begon al te observeren wat anderen speelden of oefenden, en vergeleek toen.
+Onze school voor het leren van klassieke piano was een zeer streng conservatorium. Je zou op zeer jonge leeftijd beginnen, in tegenstelling tot muziekscholen of conservatoria in NL, maar meer zoals de scholen in Rusland. We volgden een fulltime opleiding vanaf de leeftijd van 11 jaar en daarvoor een parttime opleiding. Dit soort scholing betekende dat we de hele dag op school naar elkaar konden luisteren, en dat onze klas zo druk was als een orkest. Dus ik begon al te observeren wat anderen speelden of oefenden, en vergeleek toen al.
 
-​Ook gaf ik les aan jonge pianisten tijdens mijn bachelorfase. Op zoveel niveaus is dat soort lesgeven eenvoudiger omdat de studenten al toegewijd zijn aan klassieke muziek en de discipline hebben om dagelijks vele uren te oefenen.
+Daarom ken ik van nature een breed repertoire. Vanaf onze twaalfde leerden onze leraren ons repertoire kiezen, en op onze dertiende kregen we pianorepertoireliteratuurlessen. Dit zijn ongebruikelijke eigenschappen in veel conservatoriumsystemen in Nederland, waar meer bachelorstudenten worden geaccepteerd en minder jongere studenten. Tijdens een sollicitatiegesprek werd mij eens gevraagd naar de repertoirekeuze van een leerling die Sonatines of makkelijke Haydn-sonates speelt, en ik was verbaasd dat dit überhaupt een vraag was. Dit deed mij beseffen dat kennis van repertoire en het selecteren van stukken op basis van de behoeften en motivatie van een leerling minder gebruikelijk is bij veel pianisten met verschillende achtergronden. Ik voel me zeer gelukkig dat ik vanaf zeer jonge leeftijd omringd ben door zoveel muzikanten, toen ik op 9-jarige leeftijd naar het conservatorium ging.
+
+Tijdens mijn bachelorfase gaf ik ook les op de pianoafdeling van het conservatorium. Op zoveel niveaus is dat soort lesgeven veel gemakkelijker omdat de studenten zich al bezighouden met klassieke muziek en de discipline hebben om dagelijks vele uren te oefenen.
+
+Er zit zoveel meer in mijn leservaring dan ik op één pagina zou kunnen passen, maar ik hoop dat deze korte biografie je al een idee geeft.
+
+Uiteindelijk is wat mij als docent het meest drijft het plezier van het delen, observeren, zien van positieve resultaten in de praktijk en het inspireren van maximale ontwikkeling bij studenten. Beginners leiden in hun ontdekking van muzikale kennis is één passie; uitzonderlijke talenten spotten en naar een hoog niveau begeleiden is iets anders. Ik ben ook zeer toegewijd aan het helpen van degenen die een verkeerde techniek hebben geleerd of hiaten in hun kennis hebben om hun spel te corrigeren en vooruit te helpen.
 
 ## Talent
 
