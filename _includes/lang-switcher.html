@@ -13,9 +13,9 @@ onclick="toggle_dropdown('language')"
             {% include lang-icon.html lang=lang %}</a>
         {% else %}
             {% if lang == site.default_lang %}
-                <a hreflang="{{lang}}" {% static_href %} href="{{ page.permalink_lang[lang] | default: page.url }}" {% endstatic_href %}>{% include lang-icon.html lang=lang %}</a>
+                <a hreflang="{{lang}}" {% static_href %} href="/{{ page.permalink_lang[lang] | default: page.url }}" {% endstatic_href %}>{% include lang-icon.html lang=lang %}</a>
             {% else %}
-                <a hreflang="{{lang}}" href="/{{lang}}{{ page.permalink_lang[lang] | default: page.url }}">{% include lang-icon.html lang=lang %}</a>
+                <a hreflang="{{lang}}" href="/{{lang}}/{{ page.permalink_lang[lang] | default: page.url }}">{% include lang-icon.html lang=lang %}</a>
             {% endif %}
         {% endif %}
     {% endfor %}

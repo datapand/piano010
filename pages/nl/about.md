@@ -5,11 +5,16 @@ feature_text: |
   Piano Pedagogie en Kunst
 layout: page
 lang: nl
-permalink: /over-mij/
+permalink: over-mij/
 page_id: about
 description: |
   Ontdek Selen Apaydin's reis als pianodocent, van haar vroege ervaringen tot haar huidige focus op het helpen van amateurpianisten om hun potentieel te bereiken. Leer meer over haar unieke onderwijsmethoden en benadering van talentontwikkeling. #PianoOnderwijs #SelenApaydin
 ---
+
+Opgroeien in een gezin van ervaren muzikanten en docenten vormde vanaf jonge leeftijd een zeldzame en hoogwaardige basis voor mijn ontwikkeling als docent. Al vroeg erkenden gerespecteerde conservatoriumprofessoren niet alleen mijn capaciteiten als pianist, maar ook mijn uitzonderlijke aanleg voor lesgeven. Feedback die ze persoonlijk met mij deelden en schriftelijk bevestigden toen ik jongere pianostudenten assisteerde bij de voorbereiding op piano-examens op de middelbare school en op bachelorniveau. Ik heb deze opmerkingen serieus genomen en heb dat vertrouwen sindsdien met mij meegedragen.
+
+Ik heb 22 jaar als pianoleraar in de particuliere sector gewerkt, waarbij ik een passie heb ontwikkeld voor het bevorderen van studenten van hobbyisten tot studenten die zich bezighouden met virtuoze werken zoals die van Liszt. De bel. Complex repertoire van Chopin, Beethoven en anderen is een kenmerk geworden van de prestaties van mijn studenten. Ik onderneem onconventionele stappen om elke student te helpen zijn hoogste potentieel te bereiken, waarbij ik opzettelijk verder ga dan de traditionele lesmethoden voor degenen die echt ambitieus zijn. De resultaten waren steeds opmerkelijk.
+
 
 ## Docentschap
 

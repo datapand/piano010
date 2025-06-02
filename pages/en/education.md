@@ -3,7 +3,7 @@ title: Piano education and attributes
 menu_title: Education
 layout: page
 lang: en
-permalink: /education/
+permalink: education/
 page_id: education
 feature_text: |
   Piano Education and Attributes

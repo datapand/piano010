@@ -1,0 +1,2 @@
+- Google Tag Manager (consent mode v2 - Advanced)
+- Cookie Consent

@@ -2,7 +2,7 @@
 title: Terms & Conditions
 layout: page
 lang: en
-permalink: /terms-and-conditions/
+permalink: terms-and-conditions/
 page_id: terms-and-conditions
 description: |
   These terms and conditions ("Terms") govern the use of www.piano010.nl for worldwide users and set forth the terms and conditions under which you may use our website and services as offered by us. By accessing or using the website, you approve that you have read, understood, and agree to be bound by these Terms.

@@ -24,7 +24,7 @@
             <a
               class="{% if item.permalink == page.url %}selected{% endif %}"
               hreflang="{{ site.active_lang }}"
-              href="{{ item.permalink_lang[site.active_lang] }}"
+              href="/{{ item.permalink_lang[site.active_lang] }}"
               >{{ item.feature_text }}</a
             >
           </li>
@@ -50,7 +50,7 @@
       >
         <a
           hreflang="{{ site.active_lang }}"
-          href="{{ item.permalink_lang[site.active_lang] }}"
+          href="/{{ item.permalink_lang[site.active_lang] }}"
         >
           {% if item.menu_title %} {{ item.menu_title }} {% else %} {{
           item.title }} {% endif %}

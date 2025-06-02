@@ -3,7 +3,7 @@ title: "Boost Start: Versnelde Pianoleermethode"
 menu_title: Beginners
 layout: page
 lang: nl
-permalink: /pianoles/beginners/boost-start
+permalink: pianoles/beginners/boost-start
 page_id: beginners
 feature_text: |
   Boost Start voor Beginners

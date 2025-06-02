@@ -6,7 +6,7 @@ layout: page
 feature_text: |
   Neem Contact Op
 feature_image: /assets/img/hammer-unsplash.jpg
-permalink: /contact/
+permalink: contact/
 page_id: contact
 aside: true
 description: |

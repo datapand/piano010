@@ -2,7 +2,7 @@
 title: Early Intermediate Piano Pieces Video Playlist
 layout: watchpage
 lang: en
-permalink: /early-intermediate/video-playlist/
+permalink: early-intermediate/video-playlist/
 page_id: ebook-playlist
 description: |
   Video playlist to accompany Early Intermediate Piano Pieces by Selen Apaydin. 23 curated compositions for students and teachers transitioning from beginner to intermediate levels.

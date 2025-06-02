@@ -3,7 +3,7 @@ title: "Boost start: Accelerated Piano Learning"
 menu_title: Beginners
 layout: page
 lang: en
-permalink: /piano-lesson/beginners/
+permalink: piano-lesson/beginners/
 page_id: beginners
 feature_text: |
   Boost Start for Beginners 
@@ -30,7 +30,7 @@ Learning to play the piano can be quite a task. It takes time and patience, and 
 
 Of course, making music at any level is enjoyable. But why not take it to the next level?
 
-Throughout my 21 years as a teacher, I have dedicated all my time to helping people reach higher levels of complexity in piano education.
+Throughout my 22 years as a teacher, I have dedicated all my time to helping people reach higher levels of complexity in piano education.
 
 I strongly believe that with the right guidance, people can achieve higher goals, and I have demonstrated many times that amateurs can acquire skills comparable to those of professionals.
 

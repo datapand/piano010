@@ -3,7 +3,7 @@ title: Pianostukken voor Vroeg-halfgevorderd
 menu_title: eBook
 layout: page
 lang: nl
-permalink: /ebook/pianostukken/vroeg-intermediaire/
+permalink: ebook/pianostukken/vroeg-intermediaire/
 page_id: ebook
 feature_image: /assets/img/early-intermediate-thumb.png
 description: |

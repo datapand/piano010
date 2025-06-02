@@ -12,15 +12,9 @@ lang: en
 page_id: studio
 ---
 
-## Experiencing different pianos
+Since the Corona period, I no longer teach at music schools and now give all lessons exclusively at my own piano studio. Located in Rotterdam Centrum, the studio welcomes students from across the region-Dordrecht, Gouda, Den Haag, Delft, Rhoon, Capelle, Barendrecht, Schiedam, Vlaardingen, and all neighborhoods of Rotterdam, including Kralingen, Hillegersberg, Schiebroek, Noord, West, Oost, and Zuid.
 
-## Pianos
-
-### Hybrid Electric Piano: Kawaii
-
-### Electric Piano: Kawaii
-
-### Acoustic Standing piano: Yamaha
+Not having to travel between schools has saved me around 10 hours each week, which means I am more energetic for those who come to my studio and can offer much greater flexibility in scheduling lessons.
 
 ## Location
 

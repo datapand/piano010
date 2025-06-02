@@ -3,7 +3,7 @@ title: Privacybeleid
 layout: page
 featured-img: shane-rounce-205187
 lang: nl
-permalink: /privacybeleid/
+permalink: privacybeleid/
 page_id: privacybeleid
 description: |
   Dit Privacybeleid beschrijft hoe www.piano010.nl informatie verzamelt, gebruikt, beheert en openbaar maakt van gebruikers van de website. We zijn toegewijd aan het beschermen van de privacy van onze gebruikers en het waarborgen van de veiligheid van hun persoonlijke informatie.
@@ -25,7 +25,7 @@ Dit Privacybeleid beschrijft hoe www.piano010.nl informatie verzamelt, gebruikt,
 - piano010 biedt pianolessen en digitale producten gericht op het verbeteren van pianoeducatie.
 
 **Diensten en Aanbiedingen:**
-[www.piano010.nl](http://www.piano010.nl) biedt informatie over pianolessen en levert digitale producten gericht op het verbeteren van pianoeducatie.
+[www.piano010.nl](https://www.piano010.nl) biedt informatie over pianolessen en levert digitale producten gericht op het verbeteren van pianoeducatie.
 
 ### 2. Informatieverzameling
 
